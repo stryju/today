@@ -3,10 +3,76 @@
 <head>
   <meta charset="UTF-8">
   <title>tom's today digest</title>
+  <style>
+
+  html, body {
+    color: rgba(0, 0, 0, 0.87);
+    background: white;
+
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-touch-callout: none;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+    line-height: 1.4;
+  }
+
+  body {
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: 2%;
+
+    overflow: auto;
+  }
+
+  dl {
+    margin: 0;
+  }
+
+  dt {
+    color: #999;
+    font-size: 1rem;
+
+    counter-reset: histogram-counter;
+  }
+
+  dd {
+    font-size: 1.6rem;
+    margin-left: 2rem;
+  }
+
+  dd::before {
+    content: counter( histogram-counter ) '.';
+    counter-increment: histogram-counter;
+
+    font-size: 1rem;
+    color: #666;
+    width: 1rem;
+    text-align: right;
+
+    margin-right: .5rem;
+  }
+
+  dt + dd,
+  dd + dd {
+    margin-top: .2rem;
+  }
+
+  dd + dt {
+    margin-top: 1rem;
+  }
+
+  </style>
 
 <body>
+  <h1>Tom's daily digest</h1>
+
   <dl>
-    <dt><time datetime="2015-06-01">today</time>
+    <dt id="2015-06-01"><time datetime="2015-06-01">today</time>
     <dd><a href="http://jxnblk.com/react-icons/">Building SVG Icons with React</a>
     <dd><a href="https://www.facebook.com/notes/protect-the-graph/securing-email-communications-from-facebook/1611941762379302">facebook addiing option to send encrypted emails</a>
     <dd><a href="http://var.ghost.io/as-a-new-developer/">as a new developer</a>
