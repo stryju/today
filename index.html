@@ -80,13 +80,16 @@
   li::before {
     content: counter( histogram-counter ) '.';
     counter-increment: histogram-counter;
-
+    
     font-size: 1rem;
     color: #666;
-    width: 1rem;
+    width: 2rem;
     text-align: right;
-
+    
+    margin-left: -2.5rem;
     margin-right: .5rem;
+    
+    display: inline-block;
   }
 
   li + li {
