@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>tom's today digest</title>
+  <title>tom's daily digest</title>
   <base target="_blank">
   <style>
   html, body {
@@ -20,6 +20,25 @@
     font-size: 62.5%;
     line-height: 1.4;
   }
+    
+  head {
+    display: inline;
+  }
+
+  title {
+    display: block;
+
+    font-weight: bold;
+    font-size: 2rem;
+
+    text-align: center;
+  }
+
+  title::before,
+  title::after {
+    content: ' ~ ';
+    color: #ccc;
+  }
 
   body {
     max-width: 120rem;
@@ -36,6 +55,7 @@
   details > summary {
     margin-left: -1rem;
     cursor: pointer;
+    font-size: 1.2rem;
   }
   
   details > summary::-webkit-details-marker {
@@ -57,7 +77,6 @@
 
   time {
     color: #999;
-    font-size: 1rem;
   }
 
   ol {
@@ -69,31 +88,41 @@
     
     display: flex;
     flex-flow: column-reverse;
-    list-style: none;
+    list-style: decimal-leading-zero;
   }
 
   li {
     font-size: 1.6rem;
     margin-left: 2rem;
-  }
-
-  li::before {
-    content: counter( histogram-counter ) '.';
-    counter-increment: histogram-counter;
     
     font-size: 1rem;
     color: #666;
-    width: 2rem;
-    text-align: right;
+  }
     
-    margin-left: -2.5rem;
-    margin-right: .5rem;
-    
-    display: inline-block;
+  li a:first-child {
+    font-size: 1.6rem;
   }
 
   li + li {
     margin-top: .2rem;
+  }
+    
+  a {
+    transition: color linear .35s;
+  }
+    
+  a:link {
+    color: #0074D9;
+  }
+    
+  a:visited {
+    color: #85144b;
+  }
+    
+  a:hover {
+    color: #001f3f;
+    
+    transition: color linear .05s;
   }
   </style>
 
