@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>tom's daily digest</title>
+  <title>today · tom's daily digest</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <base target="_blank">
   <style>
@@ -21,24 +21,24 @@
     font-size: 62.5%;
     line-height: 1.4;
   }
-    
+
   head {
     display: inline;
   }
 
   title {
     display: block;
+    margin: 1rem auto;
 
     font-weight: bold;
     font-size: 2rem;
-
     text-align: center;
-    margin: 1rem auto;
   }
 
   title::before,
   title::after {
-    content: ' ~ ';
+    content: ' · ';
+
     color: #ccc;
   }
 
@@ -49,30 +49,38 @@
 
     overflow: auto;
   }
-  
+
   details {
     padding-left: 1rem;
   }
-  
+
   details > summary {
-    margin-left: -1rem;
-    cursor: pointer;
     font-size: 1.2rem;
+
+    margin-left: -1rem;
+
+    cursor: pointer;
   }
-  
+
   details > summary::-webkit-details-marker {
     display: none;
   }
-  
+
   details > summary::before {
     content: '+';
+
     display: inline-block;
     width: 1.5rem;
-    text-align: center;
     margin-right: .5rem;
+
     font-weight: normal;
+    text-align: center;
   }
-  
+
+  details[open] > summary {
+    margin-bottom: .5rem;
+  }
+
   details[open] > summary::before {
     content: '-';
   }
@@ -83,24 +91,19 @@
 
   ol {
     margin: 0 0 2rem;
-    padding: 0;
-    list-style: none;
+    padding: 0 0 0 3rem;
 
-    counter-reset: histogram-counter;
-    
+    list-style: decimal-leading-zero;
+
     display: flex;
     flex-flow: column-reverse;
-    list-style: decimal-leading-zero;
   }
 
   li {
-    font-size: 1.6rem;
-    margin-left: 2rem;
-    
-    font-size: 1rem;
     color: #666;
+    font-size: 1.2rem;
   }
-    
+
   li a:first-child {
     font-size: 1.6rem;
   }
@@ -108,30 +111,39 @@
   li + li {
     margin-top: .2rem;
   }
-    
+
   a {
     transition: color linear .35s;
   }
-    
+
   a:link {
     color: #0074D9;
   }
-    
+
   a:visited {
     color: #85144b;
   }
-    
+
   a:hover {
-    color: #001f3f;
-    
     transition: color linear .05s;
+
+    color: #001f3f;
   }
   </style>
 
 <body>
-  <article id="digest:2015-06-01">
+  <article id="digest:2015-06-02">
     <details open>
-      <summary><time datetime="2015-06-01">today</time></summary>
+      <summary><time datetime="2015-06-02">today</time></summary>
+      <ol>
+        <li><a href="https://code.google.com/p/chromium/issues/detail?id=457484">Fetch API POST request body not visible in dev tools</a>
+      </ol>
+    </details>
+  </article>
+
+  <article id="digest:2015-06-01">
+    <details>
+      <summary><time datetime="2015-06-01">Tue, 2015-06-02</time></summary>
       <ol>
         <li><a href="http://codepen.io/gunderson/pen/GJJPpV">scroll-jacking is interface-jacking</a>
         <li><a href="http://stackoverflow.com/questions/30559225/how-to-create-abstract-base-class-in-javascript-that-cant-be-instantiated/30560872#30560872">how to create abstract base class in javascript that can't be instantiated</a>
