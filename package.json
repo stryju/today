@@ -1,0 +1,13 @@
+{
+  "name": "today",
+  "version": "1.0.0",
+  "scripts": {
+    "css": "cleancss styles.css | pbcopy"
+  },
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://stryju.github.io/today",
+  "devDependencies": {
+    "clean-css": "^3.3.1"
+  }
+}
