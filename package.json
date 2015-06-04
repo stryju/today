@@ -2,7 +2,7 @@
   "name": "today",
   "version": "1.0.0",
   "scripts": {
-    "css": "cleancss styles.css | pbcopy"
+    "css": "cleancss style.css | pbcopy"
   },
   "license": "MIT",
   "private": true,
