@@ -9,7 +9,8 @@ CLEANCSS = $(BINS)/cleancss
 
 build/index.html: src/index.tpl
 	@ mkdir -p build
-	@ sed -e '/@__STYLE__@/{ r build/style.css' -e '}' $< > $@
+	@ sed -e '/@__CSS__@/{' -e 'r build/style.css' -e 'd' -e '}' $< > $@
+	@ #-e 's/@__STYLE__@//g'
 
 build/style.css: src/style.css
 	@ $(CLEANCSS) -o $@ $<
