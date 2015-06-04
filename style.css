@@ -51,12 +51,12 @@ details {
 }
 
 details > summary {
-  font-size: 1.6rem;
+  font-size: 1.2rem;
 
   margin-left: -1rem;
 
   cursor: pointer;
-  padding: .3rem 0;
+  padding: .4rem 0;
 }
 
 details > summary::-webkit-details-marker {
@@ -67,7 +67,7 @@ details > summary::before {
   content: '+';
 
   display: inline-block;
-  width: 1.25em;
+  width: 1.3em;
   margin-right: .5em;
 
   font-weight: normal;
@@ -113,6 +113,79 @@ a {
   transition: color linear .35s;
 }
 
+a {
+  text-decoration: none;
+  text-shadow:
+     .03em  0     #fff,
+    -.03em  0     #fff,
+    0       .03em #fff,
+    0      -.03em #fff,
+     .06em  0     #fff,
+    -.06em  0     #fff,
+     .09em  0     #fff,
+    -.09em  0     #fff,
+     .12em  0     #fff,
+    -.12em  0     #fff,
+     .15em  0     #fff,
+    -.15em  0     #fff;
+
+  background-image:
+    linear-gradient(#fff, #fff),
+    linear-gradient(#fff, #fff),
+    linear-gradient(currentColor, currentColor);
+
+  background-size:
+    .05em 1px,
+    .05em 1px,
+    1px   1px;
+
+  background-repeat:
+    no-repeat,
+    no-repeat,
+    repeat-x;
+
+  background-position:
+    0% 90%,
+    100% 90%,
+    0% 90%;
+}
+
+a::selection {
+  color: #fff;
+  text-shadow:
+     .03em  0     #bada55,
+    -.03em  0     #bada55,
+    0       .03em #bada55,
+    0      -.03em #bada55,
+     .06em  0     #bada55,
+    -.06em  0     #bada55,
+     .09em  0     #bada55,
+    -.09em  0     #bada55,
+     .12em  0     #bada55,
+    -.12em  0     #bada55,
+     .15em  0     #bada55,
+    -.15em  0     #bada55;
+  background: #bada55;
+}
+
+a::-moz-selection {
+  color: #fff;
+  text-shadow:
+     .03em  0     #bada55,
+    -.03em  0     #bada55,
+    0       .03em #bada55,
+    0      -.03em #bada55,
+     .06em  0     #bada55,
+    -.06em  0     #bada55,
+     .09em  0     #bada55,
+    -.09em  0     #bada55,
+     .12em  0     #bada55,
+    -.12em  0     #bada55,
+     .15em  0     #bada55,
+    -.15em  0     #bada55;
+  background: #bada55;
+}
+
 a:link {
   color: #0074D9;
 }
@@ -125,4 +198,15 @@ a:hover {
   transition: color linear .05s;
 
   color: #001f3f;
+}
+
+
+::selection {
+  color: #fff;
+  background: #bada55;
+}
+
+::-moz-selection {
+  color: #fff;
+  background: #bada55;
 }
