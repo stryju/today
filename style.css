@@ -86,6 +86,10 @@ time {
   color: #999;
 }
 
+time::after {
+  content: ', ' attr( datetime );
+}
+
 ol {
   margin: 0 0 2rem;
   padding: 0 0 0 3rem;
