@@ -1,17 +1,11 @@
-#SRC = $(wildcard lib/**/*.js)
-#MINIFY = $(BINS)/uglifyjs
-#PID = test/server/pid.txt
 BINS = node_modules/.bin
 CLEANCSS = $(BINS)/cleancss
-#BUILD = build.js
-#DUO = $(BINS)/duo --stdout --use duo-babel
-#DUOT = $(BINS)/duo-test -p test/server -R spec -P $(PORT) -c "make build.js"
 
-publish: build/index.html build/favicon.ico
-	@ git co gh-pages && \
-	git pull && \
-	cp $^ . && \
-	git add $^ && \
+publish: build/index.html
+	@ echo publishing
+	@ git co gh-pages && git pull
+	@ cp $< .
+	@ echo git add index.html && \
 	git commit -m "$$(date '+%Y-%m-%d')" \
 	git push && \
 	git co master
@@ -20,9 +14,6 @@ build/index.html: tmp/head.html tmp/body.html
 	@ echo building index.html
 	@ mkdir -p build
 	@ cat $^ > $@
-
-build/favicon.ico: tpl/favicon.ico
-	@ cp $< $@
 
 tmp/head.html: tpl/_head.tpl tmp/style.css
 	@ echo building head
