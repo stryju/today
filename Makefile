@@ -1,5 +1,13 @@
 BINS = node_modules/.bin
 CLEANCSS = $(BINS)/cleancss
+HTMLMINIFIER = $(BINS)/html-minifier \
+	--remove-optional-tags \
+	--remove-empty-attributes \
+	--remove-redundant-attributes \
+	--collapse-boolean-attributes \
+	--remove-attribute-quotes \
+	--remove-comments \
+	--collapse-whitespace
 
 publish: build/index.html
 	@ echo publishing
@@ -13,7 +21,7 @@ publish: build/index.html
 build/index.html: tmp/head.html tmp/body.html
 	@ echo building index.html
 	@ mkdir -p build
-	@ cat $^ > $@
+	@ cat $^ | $(HTMLMINIFIER) > $@
 
 tmp/head.html: tpl/_head.tpl tmp/style.css
 	@ echo building head
