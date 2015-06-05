@@ -38,7 +38,7 @@ datafiles := $(patsubst %.md,tmp/%.html,$(mdfiles))
 
 tmp/body.html: tpl/_body.tpl $(datafiles)
 	@ echo building body
-	@ cat $^ > $@
+	@ cat $^ | sed '1,/<details>/s/<details>/<details open>/' > $@
 
 tmp/%.html: data/%.md tpl/_article.tpl
 	@ mkdir -p tmp
