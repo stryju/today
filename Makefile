@@ -7,12 +7,49 @@ CLEANCSS = $(BINS)/cleancss
 #DUO = $(BINS)/duo --stdout --use duo-babel
 #DUOT = $(BINS)/duo-test -p test/server -R spec -P $(PORT) -c "make build.js"
 
-build/index.html: src/index.tpl src/style.css
-	@ mkdir -p build
-	@ sed -e '/@__CSS__@/{' -e 'r build/style.css' -e '}' $< > $@
-	@ # sed -e 's/@__CSS__@/$(sed 's:/:\\/:g' build/style.css)/' $< > $@
-	@ # sed -e '/@__CSS__@/{' -e 's/@__CSS__@/{r .gitignore}/' -e '}' $< > $@
-	@ # sed -e '/@__CSS__@/{' -e s/@__CSS__@/XXX/ -e '}' $< > $@
+publish: build/index.html build/favicon.ico
+	@ git co gh-pages && \
+	git pull && \
+	git git cp $^ . && \
+	git add $^ && \
+	git commit -m "$$(date '+%Y-%m-%d')" \
+	git push && \
+	git co master
 
-build/style.css: src/style.css
-	@ $(CLEANCSS) -o $@ $<
+build/index.html: tmp/head.html tmp/body.html
+	@ echo building index.html
+	@ mkdir -p build
+	@ cat $^ > $@
+
+build/favicon.ico: tpl/favicon.ico
+	@ cp $< $@
+
+tmp/head.html: tpl/_head.tpl tmp/style.css
+	@ echo building head
+	@ mkdir -p tmp
+	@ sed "s/@__CSS__@/$$(sed -e 's/[\&/]/\\&/g' tmp/style.css)/" $< > $@
+
+tmp/style.css: tpl/style.css
+	@ echo building styles
+	@ mkdir -p tmp
+	@ $(CLEANCSS) < $< > $@
+
+mdfiles   := $(shell ls data | sort -r )
+datafiles := $(patsubst %.md,tmp/%.html,$(mdfiles))
+
+tmp/body.html: tpl/_body.tpl $(datafiles)
+	@ echo building body
+	@ cat $^ > $@
+
+tmp/%.html: data/%.md tpl/_article.tpl
+	@ mkdir -p tmp
+	@ sed -e "s/@__ID__@/$*/g" \
+		-e "s/@__DAY__@/$$(node scripts/day.js $*)/"\
+		-e "s/@__CONTENT__@/$$(node scripts/md.js $<)/"\
+		tpl/_article.tpl > $@
+
+clean:
+	@ rm -rf ./tmp
+	@ rm -rf ./build
+
+.PHONY: data

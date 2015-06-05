@@ -2,12 +2,15 @@
   "name": "today",
   "version": "1.0.0",
   "scripts": {
-    "css": "cleancss style.css | pbcopy"
+    "css": "cleancss style.css"
   },
   "license": "MIT",
   "private": true,
   "homepage": "https://stryju.github.io/today",
   "devDependencies": {
-    "clean-css": "^3.3.1"
+    "clean-css": "^3.3.1",
+    "html-minifier": "^0.7.2",
+    "marked": "^0.3.3",
+    "yargs": "^3.10.0"
   }
 }
