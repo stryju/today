@@ -5,8 +5,8 @@ publish: build/index.html
 	@ echo publishing
 	@ git co gh-pages && git pull
 	@ cp $< .
-	@ echo git add index.html && \
-	git commit -m "$$(date '+%Y-%m-%d')" \
+	@ git add index.html && \
+	git commit -m "$$(date '+%Y-%m-%d')" && \
 	git push && \
 	git co master
 
@@ -42,5 +42,3 @@ tmp/%.html: data/%.md tpl/_article.tpl
 clean:
 	@ rm -rf ./tmp
 	@ rm -rf ./build
-
-.PHONY: data
