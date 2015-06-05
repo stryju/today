@@ -10,7 +10,7 @@ CLEANCSS = $(BINS)/cleancss
 publish: build/index.html build/favicon.ico
 	@ git co gh-pages && \
 	git pull && \
-	git git cp $^ . && \
+	cp $^ . && \
 	git add $^ && \
 	git commit -m "$$(date '+%Y-%m-%d')" \
 	git push && \
