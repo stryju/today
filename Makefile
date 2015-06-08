@@ -1,4 +1,5 @@
 BRANCH = gh-pages
+GH_REPO = github.com/stryju/today.git
 BINS = node_modules/.bin
 CLEANCSS = $(BINS)/cleancss
 HTMLMINIFIER = $(BINS)/html-minifier \
@@ -9,6 +10,7 @@ HTMLMINIFIER = $(BINS)/html-minifier \
 	--remove-attribute-quotes \
 	--remove-comments \
 	--collapse-whitespace
+
 
 publish: build/index.html
 	@echo publishing
@@ -23,7 +25,7 @@ publish: build/index.html
 	@[ -z "$(git status -uno --porcelain)" ] || \
 		( \
 			git commit -m "$$(date '+%Y-%m-%d')" && \
-			git push "https://${GH_TOKEN}@$github.com/stryju/today.git" master:$(BRANCH) \
+			git push "https://${GH_TOKEN}@${GH_REPO}" master:$(BRANCH) \
 		)
 
 build/index.html: tmp/head.html tmp/body.html
