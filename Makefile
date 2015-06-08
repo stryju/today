@@ -12,12 +12,14 @@ HTMLMINIFIER = $(BINS)/html-minifier \
 
 publish: build/index.html
 	@echo publishing
+	@git config user.name "Travis-CI" && \
+		git config user.email "travis@nodemeatspace.com"
 	git checkout -B $(BRANCH)
 	git pull
 	@cp $< .
-	@git add index.html && \
-	git commit -m "$$(date '+%Y-%m-%d')" && \
-	git push "https://${GH_TOKEN}@${GH_REF}" master:$(BRANCH) > /dev/null 2>&1
+	git add index.html && \
+		git commit -m "$$(date '+%Y-%m-%d')" && \
+		git push "https://${GH_TOKEN}@${GH_REF}" master:$(BRANCH) > /dev/null 2>&1
 
 build/index.html: tmp/head.html tmp/body.html
 	@echo building index.html
