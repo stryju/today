@@ -18,15 +18,12 @@ publish: build/index.html
 	@git fetch
 	@git checkout -t origin/$(BRANCH)
 	@cp $< .
-	@echo
-	@echo --- --- --- ---
-	@echo
 	@git add index.html
 	@git status -uno --porcelain
-	[ -z "$(git status -uno --porcelain)" ] || \
+	@[ -z "$(git status -uno --porcelain)" ] || \
 		( \
 			git commit -m "$$(date '+%Y-%m-%d')" && \
-			( git push "https://${GH_TOKEN}@$github.com/stryju/today.git" master:$(BRANCH) > /dev/null 2>&1 ) \
+			git push "https://${GH_TOKEN}@$github.com/stryju/today.git" master:$(BRANCH) \
 		)
 
 build/index.html: tmp/head.html tmp/body.html
