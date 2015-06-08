@@ -12,12 +12,13 @@ HTMLMINIFIER = $(BINS)/html-minifier \
 
 publish: build/index.html
 	@echo publishing
-	git checkout origin/$(BRANCH)
+	git checkout -B $(BRANCH) --track origin/$(BRANCH)
 	git pull
 	@cp $< .
 	@git add index.html && \
 	git commit -m "$$(date '+%Y-%m-%d')" && \
-	git push origin/$(BRANCH)
+	git push && \
+	git checkout master
 
 build/index.html: tmp/head.html tmp/body.html
 	@echo building index.html
