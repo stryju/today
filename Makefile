@@ -16,8 +16,7 @@ publish: build/index.html
 		git config user.email "travis@stryju.pl"
 	@git config remote.origin.fetch '+refs/heads/*:refs/remotes/origin/*'
 	@git fetch
-	@git checkout -t origin/$(BRANCH) && \
-		git pull
+	@git checkout -t origin/$(BRANCH)
 	@cp $< .
 	@[ "`git status -uno --porcelain`" != '' ] && \
 		git add index.html && \
