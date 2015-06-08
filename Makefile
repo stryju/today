@@ -11,8 +11,7 @@ HTMLMINIFIER = $(BINS)/html-minifier \
 	--remove-comments \
 	--collapse-whitespace
 
-
-publish: build/index.html
+travis: build/index.html
 	@echo publishing
 	@git config user.name "Travis-CI" && \
 		git config user.email "travis@stryju.pl"
@@ -29,6 +28,15 @@ publish: build/index.html
 			git push "https://${GH_TOKEN}@${GH_REPO}" master:$(BRANCH) && \
 			echo published \
 		)
+
+publish: build/index.html
+	@ echo publishing
+	@ git checkout $(BRANCH) && git pull
+	@ cp $< .
+	@ git add index.html && \
+		git commit -m "$$(date '+%Y-%m-%d')" && \
+		git push && \
+		git checkout master
 
 build/index.html: tmp/head.html tmp/body.html
 	@echo building index.html
