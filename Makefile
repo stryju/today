@@ -19,7 +19,8 @@ publish: build/index.html
 	@git checkout -t origin/$(BRANCH) && \
 		git pull
 	@cp $< .
-	@[ "`git status -uno --porcelain`" == '' ] || git add index.html && \
+	@[ "`git status -uno --porcelain`" != '' ] && \
+		git add index.html && \
 		git commit -m "$$(date '+%Y-%m-%d')" && \
 		git push "https://${GH_TOKEN}@$github.com/stryju/today.git" master:$(BRANCH) \
 		> /dev/null 2>&1
