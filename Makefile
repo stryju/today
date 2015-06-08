@@ -19,8 +19,7 @@ publish: build/index.html
 	@cp $< .
 	@git add index.html && \
 		git commit -m "$$(date '+%Y-%m-%d')"
-	git status
-	git push "https://${GH_TOKEN}@${GH_REF}" master:$(BRANCH) > /dev/null 2>&1
+	git push "https://${GH_TOKEN}@$github.com/stryju/today.git" master:$(BRANCH)
 
 build/index.html: tmp/head.html tmp/body.html
 	@echo building index.html
