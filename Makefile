@@ -18,7 +18,7 @@ publish: build/index.html
 	@git fetch
 	@git checkout -t origin/$(BRANCH)
 	@cp $< .
-	@[ -n "$(git status -uno --porcelain)" ] || \
+	@[ -z "$(git status -uno --porcelain)" ] || \
 		( \
 			git add index.html && \
 			git commit -m "$$(date '+%Y-%m-%d')" && \
