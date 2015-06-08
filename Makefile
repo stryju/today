@@ -24,8 +24,10 @@ publish: build/index.html
 	@git status -uno --porcelain
 	@[ -z "$(git status -uno --porcelain)" ] || \
 		( \
+			echo about to commit && \
 			git commit -m "$$(date '+%Y-%m-%d')" && \
-			git push "https://${GH_TOKEN}@${GH_REPO}" master:$(BRANCH) \
+			git push "https://${GH_TOKEN}@${GH_REPO}" master:$(BRANCH) && \
+			echo published \
 		)
 
 build/index.html: tmp/head.html tmp/body.html
