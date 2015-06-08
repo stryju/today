@@ -21,7 +21,7 @@ publish: build/index.html
 	@echo
 	@echo --- --- --- ---
 	@echo
-	git status
+	git status -uno --porcelain
 	[ -z "$(git status -uno --porcelain)" ] || \
 		( \
 			git add index.html && \
