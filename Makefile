@@ -17,7 +17,7 @@ publish: build/index.html
 	@git config remote.origin.fetch '+refs/heads/*:refs/remotes/origin/*'
 	@git fetch
 	@git checkout -t origin/$(BRANCH)
-	@cp $< .
+	cp $< .
 	[ -z "$(git status -uno --porcelain)" ] || \
 		( \
 			git add index.html && \
