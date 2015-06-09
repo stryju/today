@@ -24,7 +24,7 @@ travis: build/index.html
 	@git diff-index --quiet HEAD  || \
 		( \
 			git commit -m "$$(date '+%Y-%m-%d')" && \
-			git push "https://${GH_TOKEN}@${GH_REPO}" master:$(BRANCH) \
+			git push "https://${GH_TOKEN}@${GH_REPO}" $(BRANCH):$(BRANCH) \
 		)
 
 publish: build/index.html
