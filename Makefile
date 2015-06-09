@@ -21,7 +21,7 @@ travis: build/index.html
 	@cp $< .
 	@git add index.html
 	@git status -uno --porcelain
-	@[ -z "$(git status -uno --porcelain)" ] || \
+	@git diff-index --quiet HEAD  || \
 		( \
 			echo about to commit && \
 			git commit -m "$$(date '+%Y-%m-%d')" && \
