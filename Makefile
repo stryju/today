@@ -11,14 +11,17 @@ HTMLMINIFIER = $(BINS)/html-minifier \
 	--remove-comments \
 	--collapse-whitespace
 
-publish: build/index.html
+mdsrc     := $(shell ls -r data)
+mdfiles   := $(patsubst %.md,tmp/%.md,$(mdsrc))
+datafiles := $(patsubst %.md,tmp/%.html,$(mdsrc))
+
+README.md: tpl/README.header.md $(mdfiles) tpl/README.footer.md
 	@echo publishing
-	@git checkout $(BRANCH) && git pull
-	@cp $< .
-	@git add index.html && \
+	@cat $^ > README.md
+	@git pull
+	@git add data $@ && \
 		git commit -m "$$(date '+%Y-%m-%d')" && \
-		git push && \
-		git checkout master
+		git push
 
 travis: build/index.html
 	@echo publishing
@@ -53,9 +56,6 @@ tmp/style.css: tpl/style.css node_modules
 	@mkdir -p tmp
 	@$(CLEANCSS) < $< > $@
 
-mdfiles   := $(shell ls data | sort -r )
-datafiles := $(patsubst %.md,tmp/%.html,$(mdfiles))
-
 tmp/body.html: tpl/_body.tpl $(datafiles)
 	@echo building body
 	@cat $^ | sed '1,/<details>/s/<details>/<details open>/' > $@
@@ -67,9 +67,14 @@ tmp/%.html: data/%.md tpl/_article.tpl node_modules
 		-e "s/@__CONTENT__@/$$(node scripts/md.js $<)/"\
 		tpl/_article.tpl > $@
 
+tmp/%.md: data/%.md
+	@mkdir -p tmp
+	@echo "## $*\n\n$$(cat $<)\n\n" > $@
+
 clean:
 	@rm -rf ./tmp
 	@rm -rf ./build
+	@rm ./README.md
 
 node_modules: package.json
 	@npm install
