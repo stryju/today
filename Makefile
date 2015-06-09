@@ -17,7 +17,7 @@ travis: build/index.html
 		git config user.email "travis@stryju.pl"
 	@git config remote.origin.fetch '+refs/heads/*:refs/remotes/origin/*'
 	@git fetch
-	@git checkout -t origin/$(BRANCH)
+	@git checkout -t origin/$(BRANCH) && git pull
 	@cp $< .
 	@git add index.html
 	@git status -uno --porcelain
