@@ -11,6 +11,15 @@ HTMLMINIFIER = $(BINS)/html-minifier \
 	--remove-comments \
 	--collapse-whitespace
 
+publish: build/index.html
+	@echo publishing
+	@git checkout $(BRANCH) && git pull
+	@cp $< .
+	@git add index.html && \
+		git commit -m "$$(date '+%Y-%m-%d')" && \
+		git push && \
+		git checkout master
+
 travis: build/index.html
 	@echo publishing
 	@git config user.name "Travis-CI" && \
@@ -24,17 +33,10 @@ travis: build/index.html
 	@git diff-index --quiet HEAD  || \
 		( \
 			git commit -m "$$(date '+%Y-%m-%d')" && \
-			git push "https://${GH_TOKEN}@${GH_REPO}" $(BRANCH):$(BRANCH) \
+			git push "https://${GH_TOKEN}@${GH_REPO}" $(BRANCH):$(BRANCH) > /dev/null 2>&1 && \
+			echo && \
+			echo "$$(date '+%Y-%m-%d') published" \
 		)
-
-publish: build/index.html
-	@ echo publishing
-	@ git checkout $(BRANCH) && git pull
-	@ cp $< .
-	@ git add index.html && \
-		git commit -m "$$(date '+%Y-%m-%d')" && \
-		git push && \
-		git checkout master
 
 build/index.html: tmp/head.html tmp/body.html
 	@echo building index.html
