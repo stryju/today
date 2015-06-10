@@ -5,6 +5,15 @@ tom`s daily digest
 
 ---
 
+## 2015-06-10
+
+1. [Style Guide Best Practices](http://bradfrost.com/blog/post/style-guide-best-practices-presentation/) slides by [Brad Frost](https://twitter.com/brad_frost)
+2. [Silon](http://silon.slaks.net/) - <q>Implementing logic gates and adders in pure CSS</q>
+3. [Against CSS in JS](http://keithjgrant.com/posts/against-css-in-js.html)
+4. [25 Coders Worth Following on Twitter in 2015](http://blog.freecodecamp.com/2015/06/25-coders-worth-following-on-twitter-in-2015.html)
+5. [an accessibility visualization toolkit](http://khan.github.io/tota11y/)
+
+
 ## 2015-06-09
 
 1. [demo of D3 4.0’s forthcoming adoption of ES6 modules](http://bl.ocks.org/mbostock/bb09af4c39c79cffcde4) - <q>This minified and gzipped build of D3 is only 3,610 bytes, a savings of 93% over the default build!</q> :O
