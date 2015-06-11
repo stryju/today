@@ -9,6 +9,7 @@ tom`s daily digest
 
 1. [Collateral damage](http://textslashplain.com/2015/06/10/collateral-damage/) - on Safari’s built-in ad-blocking
 2. [Material design icons SVG defs sprite generator](https://gist.github.com/stryju/139a41a31df5fca8f1fc) - by yours truly, because I needed it (feedback welcome!)
+3. [Don’t use pie charts.](https://twitter.com/MaxCRoser/status/608747460954062849)
 
 
 ## 2015-06-10
