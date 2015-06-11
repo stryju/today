@@ -41,7 +41,7 @@ travis: build/index.html
 			echo "$$(date '+%Y-%m-%d') published" \
 		)
 
-build/index.html: tmp/head.html tmp/body.html
+build/index.html: tmp/head.html tmp/body.html tmp/footer.html
 	@echo building index.html
 	@mkdir -p build
 	@cat $^ | $(HTMLMINIFIER) > $@
@@ -59,6 +59,10 @@ tmp/style.css: tpl/style.css node_modules
 tmp/body.html: tpl/_body.tpl $(datafiles)
 	@echo building body
 	@cat $^ | sed '1,/<details>/s/<details>/<details open>/' > $@
+
+tmp/footer.html: tpl/_footer.tpl
+	@echo building footer
+	@cat $< > $@
 
 tmp/%.html: data/%.md tpl/_article.tpl node_modules
 	@mkdir -p tmp

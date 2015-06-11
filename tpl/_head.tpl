@@ -7,4 +7,3 @@
   <base target="_blank">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <style>@__CSS__@</style>
-  <script>document.addEventListener('DOMContentLoaded',function(){var t=document.querySelector('time');if(t.getAttribute('datetime')===(new Date).toISOString().replace(/T.*/,'')){t.innerHTML='today'}})</script>
