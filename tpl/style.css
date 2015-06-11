@@ -1,7 +1,6 @@
 html, body {
   background: white;
   color: rgba(0, 0, 0, 0.87);
-  font-family: 'Fira Sans', sans-serif;
 
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   -webkit-touch-callout: none;
@@ -10,7 +9,7 @@ html, body {
 }
 
 html {
-  font-family: sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   font-size: 62.5%;
   line-height: 1.4;
 }
@@ -22,6 +21,8 @@ head {
 title {
   display: block;
   margin: 1rem auto;
+
+  font-family: inherit;
 
   font-weight: bold;
   font-size: 2rem;
