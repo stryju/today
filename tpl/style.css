@@ -42,7 +42,7 @@ title::after {
 
 body {
   max-width: 120rem;
-  margin: 0 auto;
+  margin: 0 auto 2rem;
   padding: 2%;
 
   overflow: auto;
