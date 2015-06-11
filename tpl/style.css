@@ -145,7 +145,7 @@ a::before {
   margin-right: .25em;
   vertical-align: -.2ex;
 
-  opacity: .4;
+  opacity: .3;
 }
 
 a[href^="https://github.com"]::before {
@@ -157,7 +157,7 @@ a[href^="https://twitter.com"]::before {
 }
 
 a:visited::before {
-  opacity: .2;
+  opacity: .15;
 }
 
 footer {
