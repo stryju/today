@@ -35,7 +35,7 @@ title::before {
 }
 
 title::after {
-  content: ' · tom’s daily digest';
+  content: ' · tom’s daily digest · ';
 
   color: #ccc;
 }
