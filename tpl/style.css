@@ -28,9 +28,14 @@ title {
   text-align: center;
 }
 
-title::before,
-title::after {
+title::before {
   content: ' · ';
+
+  color: #ccc;
+}
+
+title::after {
+  content: ' · tom’s daily digest';
 
   color: #ccc;
 }
@@ -150,6 +155,18 @@ a:visited::before {
   opacity: .25;
 }
 
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+
+  background: #fff;
+
+  line-height: 2;
+
+  padding: .5rem 1rem;
+}
 
 ::selection {
   color: #fff;
