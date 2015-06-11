@@ -5,6 +5,12 @@ tom`s daily digest
 
 ---
 
+## 2015-06-11
+
+1. [Collateral damage](http://textslashplain.com/2015/06/10/collateral-damage/) - on Safari’s built-in ad-blocking
+2. [Material design icons SVG defs sprite generator](https://gist.github.com/stryju/139a41a31df5fca8f1fc) - by yours truly, because I needed it (feedback welcome!)
+
+
 ## 2015-06-10
 
 1. [Style Guide Best Practices](http://bradfrost.com/blog/post/style-guide-best-practices-presentation/) slides by [Brad Frost](https://twitter.com/brad_frost)
