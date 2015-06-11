@@ -142,7 +142,7 @@ a::before {
   height: 1em;
   display: inline-block;
   margin-right: .25em;
-  vertical-align: -.25ex;
+  vertical-align: -.05ex;
 
   opacity: .4;
 }
