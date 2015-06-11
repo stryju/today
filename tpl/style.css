@@ -43,7 +43,7 @@ title::after {
 
 body {
   max-width: 120rem;
-  margin: 0 auto 2.5rem;
+  margin: 0 auto 3.5rem;
   padding: 2%;
 
   overflow: auto;
@@ -164,10 +164,12 @@ footer {
   position: fixed;
   bottom: 0;
   left: 0;
+  right: 0;
   z-index: 1;
 
   background: #fff;
 
+  font-size: 1.2rem;
   line-height: 2;
 
   padding: .5rem 1rem;
