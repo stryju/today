@@ -42,7 +42,7 @@ title::after {
 
 body {
   max-width: 120rem;
-  margin: 0 auto 2rem;
+  margin: 0 auto 2.5rem;
   padding: 2%;
 
   overflow: auto;
@@ -144,7 +144,7 @@ a::before {
   margin-right: .25em;
   vertical-align: -.25ex;
 
-  opacity: .75;
+  opacity: .4;
 }
 
 a[href^="https://github.com"]::before {
@@ -152,7 +152,7 @@ a[href^="https://github.com"]::before {
 }
 
 a:visited::before {
-  opacity: .25;
+  opacity: .2;
 }
 
 footer {
