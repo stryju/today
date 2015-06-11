@@ -13,6 +13,7 @@ tom`s daily digest
 4. ["Whose state is it, anyway?" — Further thoughts about React](http://pomax.github.io/1433888478288/-%22whose-state-is-it-anyway?%22-%E2%80%94-further-thoughts-about-react)
 5. [JavaScript for Virtual Reality by Liv Erickson at JSConf Budapest 2015](https://youtu.be/DjC3axxkcL0)
 6. [Is HTML ‘complete’?](http://www.brucelawson.co.uk/2015/is-html-complete/) by [Bruce Lawson](https://twitter.com/brucel)
+7. [New preview of ES6 fat arrow functions in Chrome](https://twitter.com/addyosmani/status/609007500097126400) by [Addy Osmani](https://twitter.com/addyosmani); via [Rafał Bromirski](https://twitter.com/paranoida)
 
 
 ## 2015-06-10
