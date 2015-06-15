@@ -10,6 +10,7 @@ tom`s daily digest
 1. [AngularJS related advices](https://github.com/ProLoser/AngularJS-ORM/blob/master/TIPS-AND-TRICKS.md) by [Dean Sofer](https://twitter.com/DeanSofer); make sure to check out the whole repo too
 2. [JavaScript Code Smells](http://elijahmanor.com/javascript-smells/); via [Radimir Bitsov](https://twitter.com/radibit)
 3. [Firefox is about to add SVG site icons (favicons, shortcut icons) support](https://bugzilla.mozilla.org/show_bug.cgi?id=366324) and [seems to be the first one to do so](http://caniuse.com/#feat=link-icon-svg)
+4. [Apple's new <link rel="icon" mask> not-quite-favicon syntax causing problems in other browsers; needs standardization?](https://readable-email.org/list/whatwg/topic/apple-s-new-link-rel-icon-mask-not-quite-favicon-syntax-causing-problems-in-other-browsers-needs-standardization) i don't even... ugh
 
 
 ## 2015-06-14
