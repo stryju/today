@@ -5,6 +5,24 @@ tom`s daily digest
 
 ---
 
+## 2015-06-15
+
+1. [AngularJS related advices](https://github.com/ProLoser/AngularJS-ORM/blob/master/TIPS-AND-TRICKS.md) by [Dean Sofer](https://twitter.com/DeanSofer)
+
+
+## 2015-06-14
+
+1. [Announcing “Exploring ES6”
+](http://www.2ality.com/2015/06/announcing-exploring-es6.html) by [Dr. Axel Rauschmayer](https://twitter.com/rauschma)
+
+
+## 2015-06-12
+
+1. [position: fixed + overflow: hidden + (plus some relative positioning and z-index stuff)
+](https://miketaylr.com/posts/2015/06/position-fixed-overflow-hidden.html)
+2. [Securing access to Wikimedia sites with HTTPS by default](https://blog.wikimedia.org/2015/06/12/securing-wikimedia-sites-with-https/) sweet!
+
+
 ## 2015-06-11
 
 1. [Collateral damage](http://textslashplain.com/2015/06/10/collateral-damage/) - on Safari’s built-in ad-blocking
