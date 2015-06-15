@@ -14,6 +14,7 @@ tom`s daily digest
 5. [Writing a Non-blocking JavaScript Quicksort](http://www.breck-mckye.com/blog/2015/06/writing-a-non-blocking-javascript-quicksort/)
 6. [react-stampit](https://github.com/stampit-org/react-stampit) <q>A specialized [stampit](https://github.com/stampit-org/stampit) factory for [React](https://github.com/facebook/react).</q>
 7. [thread about method compilation techniques in jsblocks](https://github.com/astoilkov/jsblocks/commit/147376acc3030d7192edf5dc83f4e397c3b5f29a?diff=unified#commitcomment-10954114)
+8. [Polymer for the Performance-obsessed](https://aerotwist.com/blog/polymer-for-the-performance-obsessed/) by [Paul Lewis](https://twitter.com/aerotwist)
 
 
 ## 2015-06-14
