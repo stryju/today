@@ -5,6 +5,11 @@ tom`s daily digest
 
 ---
 
+## 2015-06-16
+
+1. [favicon-bug](https://github.com/benjamingr/favicon-bug) huge favicon can (and currently will) make your browser/system crash; via [Stefan Judis](https://twitter.com/stefanjudis)
+
+
 ## 2015-06-15
 
 1. [AngularJS related advices](https://github.com/ProLoser/AngularJS-ORM/blob/master/TIPS-AND-TRICKS.md) by [Dean Sofer](https://twitter.com/DeanSofer); make sure to check out the whole repo too
