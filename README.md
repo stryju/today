@@ -5,6 +5,13 @@ tom`s daily digest
 
 ---
 
+## 2015-06-17
+
+1. [Milestone ECMAScript 6 on track for June release](http://sdtimes.com/milestone-ecmascript-6-track-june-release/); via [Dr. Axel Rauschmayer](https://twitter.com/rauschma)
+2. [so there's an API to read vehicle data](http://www.w3.org/TR/2015/WD-vehicle-data-20150616/) - color me surprised
+3. [Snoop Dogg for CEO of Twitter](https://medium.com/life-learning/snoop-dogg-for-ceo-of-twitter-here-s-why-59c994c8fd63) :)
+
+
 ## 2015-06-16
 
 1. [favicon-bug](https://github.com/benjamingr/favicon-bug) huge favicon can (and currently will) make your browser/system crash; via [Stefan Judis](https://twitter.com/stefanjudis)
