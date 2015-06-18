@@ -5,12 +5,27 @@ tom`s daily digest
 
 ---
 
+## 2015-06-18
+
+1. [Optimizing An Important Atom Primitive](http://blog.atom.io/2015/06/16/optimizing-an-important-atom-primitive.html)
+2. [From ASM.JS to WebAssembly](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/) by [Brendan Eich](https://twitter.com/BrendanEich)
+3. [Adieu](http://www.adieu.io/) <q>Adieu replaces annoying banner ads with images you want to see.</q>; I like the idea, I dislike the pricing... $5 for 500 ads? today it will probably last for less than a day :(
+4. [WebAssembly](https://blog.mozilla.org/luke/2015/06/17/webassembly/) <q>(...) WebAssembly, that defines a portable, size- and load-time-efficient format and execution model specifically designed to serve as a compilation target for the Web.</q>
+5. [How to fix the `class` keyword (Brendan Eich)](https://esdiscuss.org/topic/how-to-fix-the-class-keyword-brendan-eich)
+6. [Example of real world usage of function bind syntax](https://esdiscuss.org/topic/example-of-real-world-usage-of-function-bind-syntax) - interesting
+7. [The state of Web Components](https://hacks.mozilla.org/2015/06/the-state-of-web-components/)
+8. [Progressive Apps: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) by [Alex Russel](https://twitter.com/slightlylate)
+9. [Medium's Progressive App install experience in the wild.](https://twitter.com/slightlylate/status/611213050486456320)
+10. [Guitar Tuner](https://aerotwist.com/blog/guitar-tuner/) by [Paul Lewis](https://twitter.com/aerotwist)
+
+
 ## 2015-06-17
 
 1. [Milestone ECMAScript 6 on track for June release](http://sdtimes.com/milestone-ecmascript-6-track-june-release/); via [Dr. Axel Rauschmayer](https://twitter.com/rauschma)
 2. [so there's an API to read vehicle data](http://www.w3.org/TR/2015/WD-vehicle-data-20150616/) - color me surprised
 3. [Snoop Dogg for CEO of Twitter](https://medium.com/life-learning/snoop-dogg-for-ceo-of-twitter-here-s-why-59c994c8fd63) :)
 4. [Things I've Learned About Building & Coding HTML Email Templates](http://www.leemunroe.com/building-html-email/) - this one got lost in the open tabs...
+5. [Why am I so afraid of mingling?](http://blog.pamelafox.org/2015/06/why-am-i-so-afraid-of-mingling.html) by [Pamela Fox](http://twitter.com/pamelafox)
 
 
 ## 2015-06-16
