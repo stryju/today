@@ -5,6 +5,18 @@ tom`s daily digest
 
 ---
 
+## 2015-06-23
+
+1. [Dealing With Compiled Files in Git](http://blog.andrewray.me/dealing-with-compiled-files-in-git/)
+2. [cuid](https://github.com/ericelliott/cuid) <q>Collision-resistant ids optimized for horizontal scaling and performance.</q>
+3. [CSS Nesting Module Level 3](http://tabatkins.github.io/specs/css-nesting/) looks promising
+4. [Universal JavaScript](https://medium.com/@mjackson/universal-javascript-4761051b7ae9) - tl;dr: stop using the term *isomorphic javascript*
+5. [Two React Tips](https://medium.com/@dan_abramov/two-weird-tricks-that-fix-react-7cf9bbdef375)
+6. [moon](http://moon.co/) - the way "comming soon" pages should be done
+7. [Creating Non-Rectangular Layouts With CSS Shapes](http://sarasoueidan.com/blog/css-shapes/)
+8. [SSL now available to all](https://jsbin.com/blog/ssl-for-all) - tl;dr: [jsbin](https://jsbin.com) supports https for all
+
+
 ## 2015-06-18
 
 1. [Optimizing An Important Atom Primitive](http://blog.atom.io/2015/06/16/optimizing-an-important-atom-primitive.html)
