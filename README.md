@@ -5,6 +5,14 @@ tom`s daily digest
 
 ---
 
+## 2015-06-25
+
+1. [Apple will change to `<link rel="mask-icon" href="whatever.svg" color="#aabbcc">`](https://lists.w3.org/Archives/Public/public-whatwg-archive/2015Jun/0115.html)
+2. [creative form input field design examples](https://medium.com/@saijogeorge/creative-form-input-field-design-examples-bfe5dd50808a); via [Lea Verou](https://twitter.com/LeaVerou)
+3. [Rendering Improvements](http://blog.atom.io/2015/06/24/rendering-improvements.html) for [Atom](http://atom.io)
+4. [Top 2 "favorite Flux implementations"](https://twitter.com/rauschma/status/614002890139652096)
+
+
 ## 2015-06-23
 
 1. [Dealing With Compiled Files in Git](http://blog.andrewray.me/dealing-with-compiled-files-in-git/)
@@ -15,6 +23,12 @@ tom`s daily digest
 6. [moon](http://moon.co/) - the way "comming soon" pages should be done
 7. [Creating Non-Rectangular Layouts With CSS Shapes](http://sarasoueidan.com/blog/css-shapes/)
 8. [SSL now available to all](https://jsbin.com/blog/ssl-for-all) - tl;dr: [jsbin](https://jsbin.com) supports https for all
+
+
+## 2015-06-19
+
+1. [Conical gradients, today!](http://lea.verou.me/2015/06/conical-gradients-today/) by [Lea Verou](https://twitter.com/LeaVerou)
+2. [Git Fake Submodules](http://debuggable.com/posts/git-fake-submodules:4b563ee4-f3cc-4061-967e-0e48cbdd56cb); via [Eric Elliot](https://twitter.com/_ericelliott)
 
 
 ## 2015-06-18
