@@ -11,6 +11,7 @@ tom`s daily digest
 2. [creative form input field design examples](https://medium.com/@saijogeorge/creative-form-input-field-design-examples-bfe5dd50808a); via [Lea Verou](https://twitter.com/LeaVerou)
 3. [Rendering Improvements](http://blog.atom.io/2015/06/24/rendering-improvements.html) for [Atom](http://atom.io)
 4. [Top 2 "favorite Flux implementations"](https://twitter.com/rauschma/status/614002890139652096)
+5. [Presentation: Mobile is eating the world](http://ben-evans.com/benedictevans/2015/6/19/presentation-mobile-is-eating-the-world)
 
 
 ## 2015-06-23
@@ -23,6 +24,7 @@ tom`s daily digest
 6. [moon](http://moon.co/) - the way "comming soon" pages should be done
 7. [Creating Non-Rectangular Layouts With CSS Shapes](http://sarasoueidan.com/blog/css-shapes/)
 8. [SSL now available to all](https://jsbin.com/blog/ssl-for-all) - tl;dr: [jsbin](https://jsbin.com) supports https for all
+9. [Be mobile friendly with the new W3C Mobile Checker](http://www.w3.org/blog/validator/2015/06/23/the-new-w3c-mobile-checkers-alpha-release-be-mobile-friendly/)
 
 
 ## 2015-06-19
