@@ -12,6 +12,7 @@ tom`s daily digest
 3. [Rendering Improvements](http://blog.atom.io/2015/06/24/rendering-improvements.html) for [Atom](http://atom.io)
 4. [Top 2 "favorite Flux implementations"](https://twitter.com/rauschma/status/614002890139652096)
 5. [Presentation: Mobile is eating the world](http://ben-evans.com/benedictevans/2015/6/19/presentation-mobile-is-eating-the-world)
+6. [Rethinking the $()](http://webreflection.blogspot.de/2015/06/rethinking.html) by [Andrea Giammarchi](https://twitter.com/WebReflection)
 
 
 ## 2015-06-23
