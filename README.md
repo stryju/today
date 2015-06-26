@@ -5,6 +5,15 @@ tom`s daily digest
 
 ---
 
+## 2015-06-26
+
+1. [ES6 performance across implementations](http://kpdecker.github.io/six-speed/); via [kangax](https://twitter.com/kangax)
+2. [Colin Megill - Inline Styles are About to Kill CSS](https://www.youtube.com/watch?v=NoaxsCi13yQ); via [Jonathan Snook](https://twitter.com/snookca)
+3. [WPD 500](https://twitter.com/openwebdaily/status/613953560905060352) 🎇 congrats [Open Web Platform Daily](http://webplatformdaily.org/) 🎇
+4. [Introducing Famous Mixed Mode](http://famous.org/learn/MixedMode/index.html) damn, that's crazy (inception!); via [John-David Dalton](https://twitter.com/jdalton)
+5. [Directory upload](https://microsoftedge.github.io/directory-upload/proposal.html) proposal; via [Mathias Bynens](https://twitter.com/mathias)
+
+
 ## 2015-06-25
 
 1. [Apple will change to `<link rel="mask-icon" href="whatever.svg" color="#aabbcc">`](https://lists.w3.org/Archives/Public/public-whatwg-archive/2015Jun/0115.html)
