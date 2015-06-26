@@ -12,7 +12,7 @@ tom`s daily digest
 3. [WPD 500](https://twitter.com/openwebdaily/status/613953560905060352) 🎇 congrats [Open Web Platform Daily](http://webplatformdaily.org/) 🎇
 4. [Introducing Famous Mixed Mode](http://famous.org/learn/MixedMode/index.html) damn, that's crazy (inception!); via [John-David Dalton](https://twitter.com/jdalton)
 5. [Directory upload](https://microsoftedge.github.io/directory-upload/proposal.html) proposal; via [Mathias Bynens](https://twitter.com/mathias)
-6. [CSS modules](https://github.com/css-modules/css-modules) - mixed feelings
+6. [CSS modules](https://github.com/css-modules/css-modules) - mixed feelings... also, there's [this article](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284)
 7. [Designing For (and With) Color Blindness](https://medium.com/@aaron10buuren/designing-for-and-with-color-blindness-48392aab3d87)
 8. [A General Theory of Reactivity](https://github.com/kriskowal/gtor) by [Kris Kowal](https://twitter.com/kriskowal)
 
