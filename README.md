@@ -14,6 +14,7 @@ tom`s daily digest
 5. [Directory upload](https://microsoftedge.github.io/directory-upload/proposal.html) proposal; via [Mathias Bynens](https://twitter.com/mathias)
 6. [CSS modules](https://github.com/css-modules/css-modules) - mixed feelings
 7. [Designing For (and With) Color Blindness](https://medium.com/@aaron10buuren/designing-for-and-with-color-blindness-48392aab3d87)
+8. [A General Theory of Reactivity](https://github.com/kriskowal/gtor) by [Kris Kowal](https://twitter.com/kriskowal)
 
 
 ## 2015-06-25
