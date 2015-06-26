@@ -13,6 +13,7 @@ tom`s daily digest
 4. [Introducing Famous Mixed Mode](http://famous.org/learn/MixedMode/index.html) damn, that's crazy (inception!); via [John-David Dalton](https://twitter.com/jdalton)
 5. [Directory upload](https://microsoftedge.github.io/directory-upload/proposal.html) proposal; via [Mathias Bynens](https://twitter.com/mathias)
 6. [CSS modules](https://github.com/css-modules/css-modules) - mixed feelings
+7. [Designing For (and With) Color Blindness](https://medium.com/@aaron10buuren/designing-for-and-with-color-blindness-48392aab3d87)
 
 
 ## 2015-06-25
