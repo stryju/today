@@ -9,6 +9,7 @@ tom`s daily digest
 
 1. [Accessible Footnotes with CSS](http://www.sitepoint.com/accessible-footnotes-css/)
 2. [My name is only real enough to work at Facebook, not to use on the site](https://medium.com/@zip/my-name-is-only-real-enough-to-work-at-facebook-not-to-use-on-the-site-c37daf3f4b03) - interesting read @ facebook’s „real name policy”
+3. [Web performance: Cache efficiency exercise](https://code.facebook.com/posts/964122680272229/web-performance-cache-efficiency-exercise/)
 
 
 ## 2015-06-27
