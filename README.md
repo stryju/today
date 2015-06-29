@@ -5,6 +5,18 @@ tom`s daily digest
 
 ---
 
+## 2015-06-29
+
+1. [Accessible Footnotes with CSS](http://www.sitepoint.com/accessible-footnotes-css/)
+
+
+## 2015-06-27
+
+1. [Angular UI-Router v1.0 preview](https://github.com/angular-ui/ui-router/tree/feature-1.0)
+2. [AngularU videos](https://angularu.com/ng/videos); via Radimir
+3. [Chill the lion](http://codepen.io/Yakudoo/pen/YXxmYR) SO AWESOME!
+
+
 ## 2015-06-26
 
 1. [ES6 performance across implementations](http://kpdecker.github.io/six-speed/); via [kangax](https://twitter.com/kangax)
