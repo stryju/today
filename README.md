@@ -5,6 +5,11 @@ tom`s daily digest
 
 ---
 
+## 2015-06-30
+
+1. [Understanding HTTP Strict Transport Security (HSTS) and preloading it into the browser](http://www.troyhunt.com/2015/06/understanding-http-strict-transport.html); via [Stefan Judis](https://twitter.com/stefanjudis)
+
+
 ## 2015-06-29
 
 1. [Accessible Footnotes with CSS](http://www.sitepoint.com/accessible-footnotes-css/)
@@ -16,7 +21,7 @@ tom`s daily digest
 ## 2015-06-27
 
 1. [Angular UI-Router v1.0 preview](https://github.com/angular-ui/ui-router/tree/feature-1.0)
-2. [AngularU videos](https://angularu.com/ng/videos); via Radimir
+2. [AngularU videos](https://angularu.com/ng/videos); via [Radimir Bitsov](https://twitter.com/radibit)
 3. [Chill the lion](http://codepen.io/Yakudoo/pen/YXxmYR) SO AWESOME!
 
 
@@ -160,7 +165,7 @@ tom`s daily digest
 ## 2015-06-07
 
 1. [9 Square Pens](http://codepen.io/noahblon/blog/9-pens) - lovely!
-2. [Measure your site performance when optimized by the Google optimized pages transcoder](http://www.webpagetest.org/optimized) via [Stefan Judis](https://twitter.com/stefanjudis); fun fact: this page got *worse* by **+1.221s (27.1%)**
+2. [Measure your site performance when optimized by the Google optimized pages transcoder](http://www.webpagetest.org/optimized); via [Stefan Judis](https://twitter.com/stefanjudis); fun fact: this page got *worse* by **+1.221s (27.1%)**
 3. [Why will Angular 2 rock](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
 4. [True Hash Maps in JavaScript](http://ryanmorr.com/true-hash-maps-in-javascript/)
 
