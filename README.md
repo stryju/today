@@ -9,6 +9,7 @@ tom`s daily digest
 
 1. [Understanding HTTP Strict Transport Security (HSTS) and preloading it into the browser](http://www.troyhunt.com/2015/06/understanding-http-strict-transport.html); via [Stefan Judis](https://twitter.com/stefanjudis)
 2. [Go Offline -- Polycasts #19](https://www.youtube.com/watch?v=BucGrYACJdQ) <q>Take your Polymer app offline, without writing a single line of JavaScript! Behold the power of Service Worker!</q>
+3. [ES6 Katas](http://es6katas.org/) <q>Just learn a bit of ES6 daily, take one kata a day and fix it away.</q>; via [Christian Heilmann](https://twitter.com/codepo8)
 
 
 ## 2015-06-29
