@@ -11,6 +11,7 @@ tom`s daily digest
 2. [Mathematical Web Typography](http://jxnblk.com/writing/posts/mathematical-web-typography)
 3. [Rethink Digital Newspapper](http://nytimes.tematroinoi.com/) - NYT design concept; via [Kornel](https://twitter.com/pornelski)
 4. [a cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
+5. [moron.js](https://github.com/Vincit/moron.js) <q>A simple ORM for Node.js</q>
 
 
 ## 2015-06-30
