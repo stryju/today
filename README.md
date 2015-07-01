@@ -9,6 +9,7 @@ tom`s daily digest
 
 1. [Tail call optimization in ECMAScript 6
 ](http://www.2ality.com/2015/06/tail-call-optimization.html)
+2. [Mathematical Web Typography](http://jxnblk.com/writing/posts/mathematical-web-typography)
 
 
 ## 2015-06-30
