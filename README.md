@@ -5,6 +5,12 @@ tom`s daily digest
 
 ---
 
+## 2015-06-31
+
+1. [Tail call optimization in ECMAScript 6
+](http://www.2ality.com/2015/06/tail-call-optimization.html)
+
+
 ## 2015-06-30
 
 1. [Understanding HTTP Strict Transport Security (HSTS) and preloading it into the browser](http://www.troyhunt.com/2015/06/understanding-http-strict-transport.html); via [Stefan Judis](https://twitter.com/stefanjudis)
