@@ -5,11 +5,11 @@ tom`s daily digest
 
 ---
 
-## 2015-06-31
+## 2015-07-01
 
-1. [Tail call optimization in ECMAScript 6
-](http://www.2ality.com/2015/06/tail-call-optimization.html)
+1. [Tail call optimization in ECMAScript 6](http://www.2ality.com/2015/06/tail-call-optimization.html)
 2. [Mathematical Web Typography](http://jxnblk.com/writing/posts/mathematical-web-typography)
+3. [Rethink Digital Newspapper](http://nytimes.tematroinoi.com/) - NYT design concept; via [Kornel](https://twitter.com/pornelski)
 
 
 ## 2015-06-30
