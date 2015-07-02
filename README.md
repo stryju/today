@@ -5,6 +5,11 @@ tom`s daily digest
 
 ---
 
+## 2015-07-02
+
+1. [A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js); via [Christian Heilmann](https://twitter.com/codepo8)
+
+
 ## 2015-07-01
 
 1. [Tail call optimization in ECMAScript 6](http://www.2ality.com/2015/06/tail-call-optimization.html)
