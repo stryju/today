@@ -8,6 +8,7 @@ tom`s daily digest
 ## 2015-07-03
 
 1. [Death to Icon Fonts](https://speakerdeck.com/ninjanails/death-to-icon-fonts); via [Stefan Judis](https://twitter.com/stefanjudis)
+2. [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754); via [Christian Haeringer](https://twitter.com/Haeringer)
 
 
 ## 2015-07-02
