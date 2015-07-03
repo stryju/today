@@ -11,7 +11,7 @@ tom`s daily digest
 2. [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754); via [Christian Haeringer](https://twitter.com/Haeringer)
 3. [React v0.14 Beta 1](http://facebook.github.io/react/blog/2015/07/03/react-v0.14-beta-1.html)
 4. [fly](https://github.com/flyjs/fly) <q>New Generation Build System 
-</q>; via [Christian Haeringer](https://twitter.com/Haeringer)
+</q>; via [Christian Haeringer](https://twitter.com/Haeringer); [this comment](https://github.com/flyjs/fly/issues/3#issuecomment-117636985) is worth reading
 
 
 ## 2015-07-02
