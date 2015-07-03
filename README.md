@@ -5,6 +5,11 @@ tom`s daily digest
 
 ---
 
+## 2015-07-03
+
+1. [Death to Icon Fonts](https://speakerdeck.com/ninjanails/death-to-icon-fonts); via [Stefan Judis](https://twitter.com/stefanjudis)
+
+
 ## 2015-07-02
 
 1. [A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js); via [Christian Heilmann](https://twitter.com/codepo8)
