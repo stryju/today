@@ -5,6 +5,11 @@ tom`s daily digest
 
 ---
 
+## 2015-07-06
+
+1. [How fast are web workers?](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers)
+
+
 ## 2015-07-05
 
 1. [Perf audit: Loading performance](https://github.com/reddit/reddit-mobile/issues/247) of reddit mobile by the one and only [Paul Irish](https://twitter.com/paulirish); via [Stefan Judis](https://twitter.com/stefanjudis) a *MUST-READ*
