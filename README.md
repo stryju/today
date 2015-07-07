@@ -5,6 +5,11 @@ tom`s daily digest
 
 ---
 
+## 2015-07-07
+
+1. [Introducing Material Design Lite](https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031) by [Addy Osmani](https://twitter.com/addyosmani)
+
+
 ## 2015-07-06
 
 1. [How fast are web workers?](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers)
