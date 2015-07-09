@@ -5,6 +5,12 @@ tom`s daily digest
 
 ---
 
+## 2015-07-09
+
+1. [dailyJS is no more](http://dailyjs.com/2015/07/07/the-end/) <q>I've decided to stop writing DailyJS. It's part of my weekday ritual, and so it's a difficult decision to make, but it's time to move on to other things.</q>
+2. [Blowing up LocalStorage (or what happens when you exceed quota)](http://www.raymondcamden.com/2015/04/14/blowing-up-localstorage-or-what-happens-when-you-exceed-quota); via [Eric Elliot](https://twitter.com/_ericelliott)
+
+
 ## 2015-07-07
 
 1. [Introducing Material Design Lite](https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031) by [Addy Osmani](https://twitter.com/addyosmani)
