@@ -5,6 +5,12 @@ tom`s daily digest
 
 ---
 
+## 2015-07-10
+
+1. [Introducing Incremental DOM](https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f)
+2. [skeleton](http://getskeleton.com/) <q>A dead simple, responsive boilerplate.</q> (am I late to the party?)
+
+
 ## 2015-07-09
 
 1. [dailyJS is no more](http://dailyjs.com/2015/07/07/the-end/) <q>I've decided to stop writing DailyJS. It's part of my weekday ritual, and so it's a difficult decision to make, but it's time to move on to other things.</q>
