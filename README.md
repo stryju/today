@@ -9,6 +9,7 @@ tom`s daily digest
 
 1. [Introducing Incremental DOM](https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f)
 2. [skeleton](http://getskeleton.com/) <q>A dead simple, responsive boilerplate.</q> (am I late to the party?)
+3. [material*up*](http://www.materialup.com/); via [Stefan Judis](https://twitter.com/stefanjudis)
 
 
 ## 2015-07-09
