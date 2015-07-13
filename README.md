@@ -9,6 +9,7 @@ tom`s daily digest
 
 1. [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
 2. [Grommet](http://grommet.io/docs/) <q>ux framework</q> based on reactjs 
+3. [Why `typeof` is no longer “safe”](http://es-discourse.com/t/why-typeof-is-no-longer-safe/15)
 
 
 ## 2015-07-10
