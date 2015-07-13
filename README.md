@@ -5,6 +5,12 @@ tom`s daily digest
 
 ---
 
+## 2015-07-13
+
+1. [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
+2. [Grommet](http://grommet.io/docs/) <q>ux framework</q> based on reactjs 
+
+
 ## 2015-07-10
 
 1. [Introducing Incremental DOM](https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f)
