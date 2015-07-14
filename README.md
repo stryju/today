@@ -10,6 +10,7 @@ tom`s daily digest
 1. [The boring front-end developer](http://thebfed.com/); via [Christian Heilmann](https://twitter.com/codepo8)
 2. [Performant CSS Animations: Netflix Case Study](http://eng.wealthfront.com/2015/06/implementing-netflix-redesign.html); via [Radimir Bitsov](https://twitter.com/radibit); I whipped up a [quick demo](http://stryju.jsbin.com/semuqu/edit?html,css,output)
 3. [A Formal Commitment to New Language Features](http://jshint.com/blog/new-lang-features/) from `jshint` team
+4. [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb/index.html)
 
 
 ## 2015-07-13
