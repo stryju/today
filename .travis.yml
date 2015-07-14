@@ -6,4 +6,4 @@ branches:
   except:
     - gh-pages
 
-script: make travis
+script: make travis --debug
