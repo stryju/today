@@ -11,7 +11,7 @@ HTMLMINIFIER = $(BINS)/html-minifier \
 	--remove-comments \
 	--collapse-whitespace
 
-mdsrc     := $(shell find data -iname "*.md" | tail -r | sed 's!.*/!!')
+mdsrc     := $(shell find data -iname "*.md" | sed '1!G;h;$!d' | sed 's!.*/!!')
 mdfiles   := $(mdsrc:%.md=tmp/%.md)
 datafiles := $(mdsrc:%.md=tmp/%.html)
 
