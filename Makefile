@@ -11,9 +11,9 @@ HTMLMINIFIER = $(BINS)/html-minifier \
 	--remove-comments \
 	--collapse-whitespace
 
-mdsrc     := $(shell ls -r data)
-mdfiles   := $(patsubst %.md,tmp/%.md,$(mdsrc))
-datafiles := $(patsubst %.md,tmp/%.html,$(mdsrc))
+mdsrc     := $(shell find data -iname "*.md" | tail -r | sed 's!.*/!!')
+mdfiles   := $(mdsrc:%.md=tmp/%.md)
+datafiles := $(mdsrc:%.md=tmp/%.html)
 
 README.md: tpl/README.header.md $(mdfiles) tpl/README.footer.md
 	@echo publishing
@@ -64,14 +64,14 @@ tmp/footer.html: tpl/_footer.tpl
 	@echo building footer
 	@cat $< > $@
 
-tmp/%.html: data/%.md tpl/_article.tpl node_modules
+tmp/%.html: data/*/%.md tpl/_article.tpl node_modules
 	@mkdir -p tmp
 	@sed -e "s/@__ID__@/$*/g" \
 		-e "s/@__DAY__@/$$(node scripts/day.js $*)/"\
 		-e "s/@__CONTENT__@/$$(node scripts/md.js $<)/"\
 		tpl/_article.tpl > $@
 
-tmp/%.md: data/%.md
+tmp/%.md: data/*/%.md
 	@mkdir -p tmp
 	@echo "## $*\n\n$$(cat $<)\n\n" > $@
 

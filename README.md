@@ -7,7 +7,7 @@ tom`s daily digest
 
 ## 2015-07-14
 
-
+1. [The boring front-end developer](http://thebfed.com/); via [Christian Heilmann](https://twitter.com/codepo8)
 
 
 ## 2015-07-13
