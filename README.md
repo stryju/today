@@ -10,6 +10,7 @@ tom`s daily digest
 1. [What is npm’s `prepublish`, and why is it so confusing?](https://medium.com/@boennemann/what-is-npm-s-prepublish-and-why-is-it-so-confusing-a948373e6be1)
 2. [An important tweet from the European Blind Union](https://twitter.com/euroblind/status/620486653531062272) I am guilty of that, lesson learned
 3. [jQuery 3.0 and jQuery Compat 3.0 Alpha Versions Released](http://blog.jquery.com/2015/07/13/jquery-3-0-and-jquery-compat-3-0-alpha-versions-released/); via [Stefan Judis](https://twitter.com/stefanjudis)
+4. [Spot the unsubscribe!](http://spottheunsubscribe.tumblr.com/) <q>When email marketing met *Where’s Waldo?*</q>; by [Lea Verou](https://twitter.com/LeaVerou)
 
 
 ## 2015-07-14
