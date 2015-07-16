@@ -5,6 +5,11 @@ tom`s daily digest
 
 ---
 
+## 2015-07-16
+
+1. [The DOM is getting better](https://medium.com/@PitaJ/the-dom-is-getting-better-8d1a4eaf99e7) <q>Many of this newer DOM functionality is very close to jQuery methods, and were probably based upon jQuery’s ease of use.</q>; via [Dr. Axel Rauschmayer](https://twitter.com/rauschma/status/621688992912650240)
+
+
 ## 2015-07-15
 
 1. [What is npm’s `prepublish`, and why is it so confusing?](https://medium.com/@boennemann/what-is-npm-s-prepublish-and-why-is-it-so-confusing-a948373e6be1)
