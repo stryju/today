@@ -5,6 +5,13 @@ tom`s daily digest
 
 ---
 
+## 2015-07-17
+
+1. [coverr](http://coverr.co/) <q>beautiful, free videos for your homepage</q>
+2. [Double Doyle](http://codepen.io/tmrDevelops/pen/vAeqo) mesmerising
+3. [ESLint 1.0.0-rc-1 released](http://eslint.org/blog/2015/07/eslint-1.0.0-rc-1-released/)
+
+
 ## 2015-07-16
 
 1. [The DOM is getting better](https://medium.com/@PitaJ/the-dom-is-getting-better-8d1a4eaf99e7) <q>Many of this newer DOM functionality is very close to jQuery methods, and were probably based upon jQuery’s ease of use.</q>; via [Dr. Axel Rauschmayer](https://twitter.com/rauschma/status/621688992912650240)
