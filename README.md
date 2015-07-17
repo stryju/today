@@ -10,6 +10,7 @@ tom`s daily digest
 1. [coverr](http://coverr.co/) <q>beautiful, free videos for your homepage</q>
 2. [Double Doyle](http://codepen.io/tmrDevelops/pen/vAeqo) mesmerising
 3. [ESLint 1.0.0-rc-1 released](http://eslint.org/blog/2015/07/eslint-1.0.0-rc-1-released/)
+4. [SMIL deprecation in Chromium](https://www.chromestatus.com/features/5371475380928512) same goes for Blink; via [Sara Soueidan](https://twitter.com/SaraSoueidan/status/621993340754636801)
 
 
 ## 2015-07-16
