@@ -5,6 +5,12 @@ tom`s daily digest
 
 ---
 
+## 2015-07-20
+
+1. [Aborting a fetch](https://github.com/whatwg/fetch/issues/27) interesting discussion
+2. [Styleguide](https://hugeinc.github.io/styleguide/) <q>A tool to make creating and maintaining styleguides easy.</q>; via [Jonathan Snook](https://twitter.com/snookca) 
+
+
 ## 2015-07-17
 
 1. [coverr](http://coverr.co/) <q>beautiful, free videos for your homepage</q>
