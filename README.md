@@ -5,6 +5,17 @@ tom`s daily digest
 
 ---
 
+## 2015-07-22
+
+
+
+
+## 2015-07-21
+
+1. [Minimalist examples of ES6 functionalities](https://github.com/hemanth/paws-on-es6); via [Rafał Bromirski](https://twitter.com/paranoida)
+2. [CSS snapping is pretty cool!](https://twitter.com/supersole/status/615924334675296256/photo/1) petty cool idea; via [Rafał Bromirski](https://twitter.com/paranoida) 
+
+
 ## 2015-07-20
 
 1. [Aborting a fetch](https://github.com/whatwg/fetch/issues/27) interesting discussion
