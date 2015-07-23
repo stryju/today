@@ -9,6 +9,7 @@ tom`s daily digest
 
 1. [PostCSS: The Future is Here](https://youtu.be/xokB0ptKbxk)
 2. [Stop Gratuitous UI Animation](https://medium.com/@sophie_paxtonUX/stop-gratuitous-ui-animation-9ece9aa9eb97)
+3. [bocker](https://github.com/p8952/bocker) <q>Docker implemented in 100 lines of bash.</q>
 
 
 ## 2015-07-22
