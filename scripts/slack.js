@@ -20,7 +20,7 @@ process.stdin.on('end', function() {
       return ' - ' +
         line
           .replace( /^\++\d+\.\s+/, '' )
-          .replace( /\[(\w+)\]\(([^\s]+)\)/g, '<$2|$1>' )
+          .replace( /\[([^\]]+)\]\(([^\s]+)\)/g, '<$2|$1>' )
           .replace( /<\/?q>/g, '"' );
     });
 
