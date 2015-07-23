@@ -5,9 +5,15 @@ tom`s daily digest
 
 ---
 
+## 2015-07-23
+
+1. [PostCSS: The Future is Here](https://youtu.be/xokB0ptKbxk)
+
+
 ## 2015-07-22
 
-
+1. [The 5 ES7 Decorators I want to use, now.](https://medium.com/@zackargyle/the-5-es7-decorators-i-want-to-use-now-ca40d1d5c114); via [JavaScript Live](https://twitter.com/JavaScriptDaily)
+2. [RegEx match open tags except XHTML self-contained tags](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags) ;)
 
 
 ## 2015-07-21
