@@ -25,6 +25,7 @@ README.md: tpl/README.header.md $(mdfiles) tpl/README.footer.md
 
 travis: build/index.html
 	@echo publishing
+	@git diff master~1:README.md README.md | node scripts/slack.js "${SLACK_HOOK}"
 	@git config user.name "Travis-CI" && \
 		git config user.email "travis@stryju.pl"
 	@git config remote.origin.fetch '+refs/heads/*:refs/remotes/origin/*'
