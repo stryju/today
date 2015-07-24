@@ -5,6 +5,12 @@ tom`s daily digest
 
 ---
 
+## 2015-07-24
+
+1. [What do ES6 modules export?](http://www.2ality.com/2015/07/es6-module-exports.html) by [Dr. Axel Rauschmayer](https://twitter.com/rauschma); via [Open Web Platform Daily](http://webplatformdaily.org/)
+2. [Proposal for Encoding Source-Level Environment Information Within Source Maps](https://github.com/fitzgen/source-map-rfc/blob/scopes-and-bindings/proposals/env.md); via [Open Web Platform Daily](http://webplatformdaily.org/)
+
+
 ## 2015-07-23
 
 1. [PostCSS: The Future is Here](https://youtu.be/xokB0ptKbxk)
