@@ -15,7 +15,8 @@ tom`s daily digest
 6. [lucifer](https://github.com/Shyp/lucifer) <q>Hot, hot test reloading from Javascript</q>
 7. [Stop classifying JavaScript](https://medium.com/@PitaJ/stop-classifying-javascript-4cc823dfbedf); still, I like the es6 `class`
 8. [DNA + OAuth2](https://github.com/offapi/rbac-23andme-oauth2)
-9. [Polymer Summit](https://www.polymer-project.org/summit) <q>Monday, September 14th & Tuesday, September 15th, 2015</q>
+9. [Polymer Summit](https://www.polymer-project.org/summit) <q>Monday, September 14th & Tuesday, September 15th, 2015</q>; via [Oliver Schmidt](https://twitter.com/codejet)
+10. [The size of web fonts (per page) quadrupled over the last 2 years](https://twitter.com/simevidas/status/625515358967975936) by [Šime Vidas](https://twitter.com/simevidas)
 
 
 ## 2015-07-24
