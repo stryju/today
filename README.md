@@ -18,6 +18,9 @@ tom`s daily digest
 9. [Polymer Summit](https://www.polymer-project.org/summit) <q>Monday, September 14th & Tuesday, September 15th, 2015</q>; via [Oliver Schmidt](https://twitter.com/codejet)
 10. [The size of web fonts (per page) quadrupled over the last 2 years](https://twitter.com/simevidas/status/625515358967975936) by [Šime Vidas](https://twitter.com/simevidas)
 11. [ttl podcast with Ilya Grigorik, Google about http/2](http://ttlpodcast.com/episodes/ilya-grigorik.html)
+12. [px2svg](https://github.com/meyerweb/px2svg) <q>Converts raster images to SVG, using color-run optimization.</q>; via [Smashing Magazine](https://twitter.com/smashingmag/status/625609589942128641)
+13. [Screenings](http://screenings.io/) <q>Watch. Learn. Design.</q>
+14. [26 digital typography rules for beginners](https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3)
 
 
 ## 2015-07-24
