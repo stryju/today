@@ -5,6 +5,17 @@ tom`s daily digest
 
 ---
 
+## 2015-07-27
+
+1. [Javascript, locking and sound, brought to you by the letters W, T and F](http://www.jwz.org/blog/2015/07/javascript-locking-and-sound-brought-to-you-by-the-letters-w-t-and-f/)
+2. [Stretchy: Form element autosizing, the way it should be](http://lea.verou.me/2015/07/stretchy-form-element-autosizing-the-way-it-should-be/) by [Lea Verou](https://twitter.com/LeaVerou)
+3. [Routing your build to container-based infrastructure](http://docs.travis-ci.com/user/workers/container-based-infrastructure/#Routing-your-build-to-container-based-infrastructure) in TravisCI
+4. [The Refactoring Tales](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html) by [Jack Franklin](http://twitter.com/jack_franklin)
+5. [Speeding up Javascript Test Time 1000x](https://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
+6. [lucifer](https://github.com/Shyp/lucifer) <q>Hot, hot test reloading from Javascript</q>
+7. [Stop classifying JavaScript](https://medium.com/@PitaJ/stop-classifying-javascript-4cc823dfbedf); still, I like the es6 `class`
+
+
 ## 2015-07-24
 
 1. [What do ES6 modules export?](http://www.2ality.com/2015/07/es6-module-exports.html) by [Dr. Axel Rauschmayer](https://twitter.com/rauschma); via [Open Web Platform Daily](http://webplatformdaily.org/)
