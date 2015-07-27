@@ -21,6 +21,7 @@ tom`s daily digest
 12. [px2svg](https://github.com/meyerweb/px2svg) <q>Converts raster images to SVG, using color-run optimization.</q>; via [Smashing Magazine](https://twitter.com/smashingmag/status/625609589942128641)
 13. [Screenings](http://screenings.io/) <q>Watch. Learn. Design.</q>
 14. [26 digital typography rules for beginners](https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3)
+15. [RxMarbles](http://rxmarbles.com/) <q>Interactive diagrams of Rx Observables</q>
 
 
 ## 2015-07-24
