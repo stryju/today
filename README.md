@@ -1,9 +1,29 @@
 [![last build](https://travis-ci.org/stryju/today.svg?branch=master)](https://travis-ci.org/stryju/today)
 
 # today
-tom`s daily digest
+tom’s daily digest
 
 ---
+## 2015-08-04
+
+1. [cat vs ball of wool](http://codepen.io/Yakudoo/full/oXJYxy) lovely!
+2. [Opera 31 released](https://dev.opera.com/blog/opera-31/)
+3. [Asynchronous JSON methods for ECMAScript proposal](https://github.com/mohsen1/async-json); via [Sindre Sorhus](https://twitter.com/sindresorhus/status/627850612424765440)
+4. [Non-blocking Asynchronous JSON.parse Using The Fetch API](http://azimi.me/2015/07/30/non-blocking-async-json-parse.html)
+5. [ESLint v1.0.0 released](http://eslint.org/blog/2015/07/eslint-1.0.0-released/)
+6. [Fix scrolling performance with CSS will-change property](https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property)
+7. [Redesigning Chrome Android. Part 2 of 2](https://medium.com/google-design/redesigning-chrome-android-part-2-of-2-8884f0430940) <q>Layout, UI and motion design</q>
+8. [AngularJS 2.0: what we can look forward to](http://www.developerdrive.com/2015/07/angularjs-2-0-what-we-can-look-forward-to/), [diary.js](https://github.com/angular/diary.js) looks interesting
+9. [Update on standardizing shadow DOM and custom elements](https://annevankesteren.nl/2015/07/shadow-dom-custom-elements-update)
+10. [Effective JavaScript Codemods](https://medium.com/@cpojer/effective-javascript-codemods-5a6686bb46fb) <q>Tool assisted code modifications can help evolve complex systems incrementally and aid in maintaining the health of large codebases.</q>
+
+
+## 2015-07-29
+
+1. [Too Many Tools and Frameworks](http://xn--h4hg.ws/2015/07/27/too-many-tools/)
+2. [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs) by [Paul Irish](https://twitter.com/paulirish)
+3. [Stephen Hay | The Back(side) of the Class | CSS Day](https://vimeo.com/134190982)
+
 
 ## 2015-07-28
 
