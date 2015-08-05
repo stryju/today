@@ -41,6 +41,7 @@ travis: build/index.html
 			echo && \
 			echo "$$(date '+%Y-%m-%d') published" \
 		)
+.PHONY: travis
 
 build/index.html: tmp/head.html tmp/body.html tmp/footer.html
 	@echo building index.html
@@ -80,6 +81,7 @@ clean:
 	@rm -rf ./tmp
 	@rm -rf ./build
 	@rm ./README.md
+.PHONY: clean
 
 node_modules: package.json
 	@npm install
