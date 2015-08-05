@@ -4,6 +4,13 @@
 tom’s daily digest
 
 ---
+## 2015-08-05
+
+1. [Working out what DNS to prefetch](https://paul.kinlan.me/quick-script-for-prefetch/); via [Christian Haeringer](https://twitter.com/Haeringer)
+2. [codedoodl.es](http://codedoodl.es/); via [Rafał Bromirski](https://twitter.com/paranoida)
+3. [BLCK4777](http://www.p01.org/releases/BLCK4777/BLCK4777_safe.htm) by [p01](http://twitter.com/p01)
+
+
 ## 2015-08-04
 
 1. [cat vs ball of wool](http://codepen.io/Yakudoo/full/oXJYxy) lovely!
