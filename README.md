@@ -8,6 +8,7 @@ tom’s daily digest
 
 1. [Why I am switching to promises](https://spion.github.io/posts/why-i-am-switching-to-promises.html); and yet, some people are still stuck @ callback-hell
 2. [Promise nuggets](https://promise-nuggets.github.io/)
+3. [Getting started with ECMAScript 6](http://www.2ality.com/2015/08/getting-started-es6.html)
 
 
 ## 2015-08-05
