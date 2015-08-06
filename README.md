@@ -4,6 +4,12 @@
 tom’s daily digest
 
 ---
+## 2015-08-06
+
+1. [Why I am switching to promises](https://spion.github.io/posts/why-i-am-switching-to-promises.html); and yet, some people are still stuck @ callback-hell
+2. [Promise nuggets](https://promise-nuggets.github.io/)
+
+
 ## 2015-08-05
 
 1. [Working out what DNS to prefetch](https://paul.kinlan.me/quick-script-for-prefetch/); via [Christian Haeringer](https://twitter.com/Haeringer)
