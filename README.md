@@ -13,6 +13,7 @@ tom’s daily digest
 5. [Bringing SSL To Your Private Network](https://www.webreflection.co.uk/blog/2015/08/08/bringing-ssl-to-your-private-network) by [Andrea Giammarchi](https://twitter.com/WebReflection/status/630118020527079424)
 6. [Here is a regex to match a regex](https://twitter.com/HugoGiraudel/status/630291436618010624)
 7. [Scratch JS](https://chrome.google.com/webstore/detail/scratch-js/alploljligeomonipppgaahpkenfnfkn?hl=en-US) <q>Write and execute ES6 within DevTools!</q> - a chrome extension
+8. [Introducing Backdrop Filters](https://www.webkit.org/blog/3632/introducing-backdrop-filters/); via [Sara Soueidan](https://twitter.com/SaraSoueidan/status/630741618434441217)
 
 
 ## 2015-08-06
