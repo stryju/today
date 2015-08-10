@@ -4,6 +4,15 @@
 tom’s daily digest
 
 ---
+## 2015-08-10
+
+1. [Well, actually; Not all semicolons…](http://blog.getify.com/not-all-semicolons/) [Kyle Simpson](https://twitter.com/getify) on <q>clear vs clever</q>; via [Roman Blöth](https://plus.google.com/+RomanBlöth)
+2. [Updated Let's Encrypt Launch Schedule](https://letsencrypt.org//2015/08/07/updated-lets-encrypt-launch-schedule.html)
+3. [The technology behind preview photos](https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/); via [Open Web Platform Daily](http://webplatformdaily.org/)
+4. [What the Flux?! Let’s Redux.](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux); via [JavaScript Weekly](http://javascriptweekly.com/)
+5. [Bringing SSL To Your Private Network](https://www.webreflection.co.uk/blog/2015/08/08/bringing-ssl-to-your-private-network) by [Andrea Giammarchi](https://twitter.com/WebReflection/status/630118020527079424)
+
+
 ## 2015-08-06
 
 1. [Why I am switching to promises](https://spion.github.io/posts/why-i-am-switching-to-promises.html); and yet, some people are still stuck @ callback-hell
