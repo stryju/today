@@ -4,6 +4,15 @@
 tom’s daily digest
 
 ---
+## 2015-08-12
+
+1. [tower of babel](https://github.com/yosuke-furukawa/tower-of-babel); via [Rafał Bromirski](https://twitter.com/paranoida)
+2. [The Hamburger Menu Doesn't Work](http://deep.design/the-hamburger-menu/); via [Radimir Bitsov](https://twitter.com/radibit)
+3. [how DNS works](https://howdns.works/); via [Raquel Vélez](https://twitter.com/rockbot/status/631235370722525184)
+4. [Comparing Performance of Blaze, React, Angular-Meteor and Angular 2 with Meteor](http://info.meteor.com/blog/comparing-performance-of-blaze-react-angular-meteor-and-angular-2-with-meteor)
+5. [I Want These * Bugs Off My * Internet](http://www.slideshare.net/dakami/i-want-these-bugs-off-my-internet-51423044); via [Jan Lehnardt](https://twitter.com/janl/status/631193265421856769)
+
+
 ## 2015-08-10
 
 1. [Well, actually; Not all semicolons…](http://blog.getify.com/not-all-semicolons/) [Kyle Simpson](https://twitter.com/getify) on <q>clear vs clever</q>; via [Roman Blöth](https://plus.google.com/+RomanBlöth)
