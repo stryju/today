@@ -15,6 +15,7 @@ tom’s daily digest
 7. [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658) <q>A detailed guide on building your very own sound machine
 using JavaScript, Node.js and Electron</q>; via [Axel Rauschmayer](https://twitter.com/rauschma/status/631490350725656576)
 8. [Browser Trends August 2015: Chrome Exceeds 50%](http://www.sitepoint.com/browser-trends-august-2015-chrome-exceeds-50/) 🎉 IE9/10 below 2% each 🎉; via [Lea Verou](https://twitter.com/LeaVerou/status/631485176254726144)
+9. [Understanding Critical CSS](http://www.smashingmagazine.com/2015/08/understanding-critical-css/)
 
 
 ## 2015-08-12
