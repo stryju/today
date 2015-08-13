@@ -16,6 +16,7 @@ tom’s daily digest
 using JavaScript, Node.js and Electron</q>; via [Axel Rauschmayer](https://twitter.com/rauschma/status/631490350725656576)
 8. [Browser Trends August 2015: Chrome Exceeds 50%](http://www.sitepoint.com/browser-trends-august-2015-chrome-exceeds-50/) 🎉 IE9/10 below 2% each 🎉; via [Lea Verou](https://twitter.com/LeaVerou/status/631485176254726144)
 9. [Understanding Critical CSS](http://www.smashingmagazine.com/2015/08/understanding-critical-css/)
+10. [Blurring Is the Auto-Tune of UI Design [...]](http://www.subtraction.com/2015/08/11/blurring-is-the-auto-tune-of-ui-design/) <q>[...]and Other Things We Thought About While Designing Wildcard 2.0</q>; via [Chris Coyier](https://twitter.com/chriscoyier/status/631813646490865664)
 
 
 ## 2015-08-12
