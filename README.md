@@ -7,6 +7,14 @@ tom’s daily digest
 ## 2015-08-13
 
 1. [Facebook.com is now compiled with babeljs](https://twitter.com/amasad/status/631251607422787584)
+2. [Ember.js 2.0 released](http://emberjs.com/blog/2015/08/13/ember-2-0-released.html)
+3. [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html) <q>The bigger the rewrite, the bigger the waste of time</q>; via [Randall Koutnik](https://twitter.com/rkoutnik/status/631522983379472384)
+4. [Push Notifications on the Web - Google Chrome](http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128) useful, as I've been playing around with those recently; via [Ilya Grigorik](https://twitter.com/igrigorik/status/631495889610129409)
+5. [GitHub Desktop is now available](https://github.com/blog/2046-github-desktop-is-now-available)
+6. [The Language of Modular Design](http://alistapart.com/article/language-of-modular-design) - at least 3 sources for this one - good read
+7. [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658) <q>A detailed guide on building your very own sound machine
+using JavaScript, Node.js and Electron</q>; via [Axel Rauschmayer](https://twitter.com/rauschma/status/631490350725656576)
+8. [Browser Trends August 2015: Chrome Exceeds 50%](http://www.sitepoint.com/browser-trends-august-2015-chrome-exceeds-50/) 🎉 IE9/10 below 2% each 🎉; via [Lea Verou](https://twitter.com/LeaVerou/status/631485176254726144)
 
 
 ## 2015-08-12
@@ -98,7 +106,7 @@ tom’s daily digest
 
 ## 2015-07-24
 
-1. [What do ES6 modules export?](http://www.2ality.com/2015/07/es6-module-exports.html) by [Dr. Axel Rauschmayer](https://twitter.com/rauschma); via [Open Web Platform Daily](http://webplatformdaily.org/)
+1. [What do ES6 modules export?](http://www.2ality.com/2015/07/es6-module-exports.html) by [Axel Rauschmayer](https://twitter.com/rauschma); via [Open Web Platform Daily](http://webplatformdaily.org/)
 2. [Proposal for Encoding Source-Level Environment Information Within Source Maps](https://github.com/fitzgen/source-map-rfc/blob/scopes-and-bindings/proposals/env.md); via [Open Web Platform Daily](http://webplatformdaily.org/)
 3. [Big list of http static server one-liners](https://gist.github.com/willurd/5720255)
 
@@ -145,7 +153,7 @@ tom’s daily digest
 
 ## 2015-07-16
 
-1. [The DOM is getting better](https://medium.com/@PitaJ/the-dom-is-getting-better-8d1a4eaf99e7) <q>Many of this newer DOM functionality is very close to jQuery methods, and were probably based upon jQuery’s ease of use.</q>; via [Dr. Axel Rauschmayer](https://twitter.com/rauschma/status/621688992912650240)
+1. [The DOM is getting better](https://medium.com/@PitaJ/the-dom-is-getting-better-8d1a4eaf99e7) <q>Many of this newer DOM functionality is very close to jQuery methods, and were probably based upon jQuery’s ease of use.</q>; via [Axel Rauschmayer](https://twitter.com/rauschma/status/621688992912650240)
 2. [Styling SVG `<use>` Content with CSS](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/) by [Sara Soueidan](https://twitter.com/SaraSoueidan)
 
 
@@ -312,7 +320,7 @@ tom’s daily digest
 
 ## 2015-06-17
 
-1. [Milestone ECMAScript 6 on track for June release](http://sdtimes.com/milestone-ecmascript-6-track-june-release/); via [Dr. Axel Rauschmayer](https://twitter.com/rauschma)
+1. [Milestone ECMAScript 6 on track for June release](http://sdtimes.com/milestone-ecmascript-6-track-june-release/); via [Axel Rauschmayer](https://twitter.com/rauschma)
 2. [so there's an API to read vehicle data](http://www.w3.org/TR/2015/WD-vehicle-data-20150616/) - color me surprised
 3. [Snoop Dogg for CEO of Twitter](https://medium.com/life-learning/snoop-dogg-for-ceo-of-twitter-here-s-why-59c994c8fd63) :)
 4. [Things I've Learned About Building & Coding HTML Email Templates](http://www.leemunroe.com/building-html-email/) - this one got lost in the open tabs...
@@ -343,7 +351,7 @@ tom’s daily digest
 ## 2015-06-14
 
 1. [Announcing “Exploring ES6”
-](http://www.2ality.com/2015/06/announcing-exploring-es6.html) by [Dr. Axel Rauschmayer](https://twitter.com/rauschma)
+](http://www.2ality.com/2015/06/announcing-exploring-es6.html) by [Axel Rauschmayer](https://twitter.com/rauschma)
 
 
 ## 2015-06-12
