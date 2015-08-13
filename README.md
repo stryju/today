@@ -4,6 +4,11 @@
 tom’s daily digest
 
 ---
+## 2015-08-13
+
+1. [Facebook.com is now compiled with babeljs](https://twitter.com/amasad/status/631251607422787584)
+
+
 ## 2015-08-12
 
 1. [tower of babel](https://github.com/yosuke-furukawa/tower-of-babel); via [Rafał Bromirski](https://twitter.com/paranoida)
