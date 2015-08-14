@@ -4,6 +4,12 @@
 tom’s daily digest
 
 ---
+## 2015-08-14
+
+1. [Getting the “abc” right](https://www.webreflection.co.uk/blog/2015/08/13/getting-the-abc-right) by [Andrea Giammarchi](https://twitter.com/WebReflection/status/631836506127233024)
+2. [Performance update #2: Electric Boogaloo](http://product.voxmedia.com/2015/8/13/9143805/performance-update-2-electric-boogaloo) insight @ improvements by Vox media; via [Scott Jehl](https://twitter.com/scottjehl/status/631835839362957313)
+
+
 ## 2015-08-13
 
 1. [Facebook.com is now compiled with babeljs](https://twitter.com/amasad/status/631251607422787584)
