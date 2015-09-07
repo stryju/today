@@ -18,6 +18,7 @@ Seems like I am slowly leaning towards "tom's weekly" - hard to find spare time 
 8. [2014 The Year in Interactive Storytelling, Graphics and Multimedia](http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html) by [The New York Times](http://www.nytimes.com/); via [Stefan Judis](https://twitter.com/stefanjudis)
 9. [Standards for Web apps on mobile – August 2015](http://html5apps-project.eu/2015/09/04/latest-edition-standards-for-web-apps-on-mobile-august-2015/); via [Stefan Judis](https://twitter.com/stefanjudis)
 10. [Automating resource selection with Client Hints](https://developers.google.com/web/updates/2015/09/automating-resource-selection-with-client-hints) interesting...; via [Stefan Judis](https://twitter.com/stefanjudis)
+11. [HTTP/2 - 115 days with the RFC](http://daniel.haxx.se/blog/2015/09/07/http2-115-days-with-the-rfc/)
 
 
 ## 2015-09-01
