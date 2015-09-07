@@ -14,6 +14,7 @@ Seems like I am slowly leaning towards "tom's weekly" - hard to find spare time 
 4. [History API: Scroll Restoration](https://developers.google.com/web/updates/2015/09/history-api-scroll-restoration) by [Paul Lewis](https://twitter.com/aerotwist/status/639017525146189825)
 5. [Accessibility - beyond the screen reader](http://www.creativebloq.com/web-design/accessibility-beyond-screen-reader-91516540); via [Heydon Pickering](https://twitter.com/heydonworks/status/638955646688358400)
 6. [Flash-Free Clipboard for the Web](https://hacks.mozilla.org/2015/09/flash-free-clipboard-for-the-web/); via [Alex Rauschmayer](https://twitter.com/rauschma/status/638814175662338048)
+7. [SocketCluster](http://socketcluster.io/) <q>An open source framework to build your own scalable realtime apps and microservices.</q>; via [Randall Koutnik](https://twitter.com/rkoutnik)
 
 
 ## 2015-09-01
