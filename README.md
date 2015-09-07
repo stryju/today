@@ -4,6 +4,18 @@
 tom’s daily digest
 
 ---
+## 2015-09-07
+
+Seems like I am slowly leaning towards "tom's weekly" - hard to find spare time to read ATM ;-)
+
+1. [5 Questions Every Unit Test Must Answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d) by [Eric Elliot](https://twitter.com/_ericelliott)
+2. [Getting Started With Falcor](https://auth0.com/blog/2015/08/28/getting-started-with-falcor/); via [Jesus Rodriguez](https://twitter.com/Foxandxss)
+3. [IT "translator"](https://twitter.com/lukew/status/640020040989806592)
+4. [History API: Scroll Restoration](https://developers.google.com/web/updates/2015/09/history-api-scroll-restoration) by [Paul Lewis](https://twitter.com/aerotwist/status/639017525146189825)
+5. [Accessibility - beyond the screen reader](http://www.creativebloq.com/web-design/accessibility-beyond-screen-reader-91516540); via [Heydon Pickering](https://twitter.com/heydonworks/status/638955646688358400)
+6. [Flash-Free Clipboard for the Web](https://hacks.mozilla.org/2015/09/flash-free-clipboard-for-the-web/); via [Alex Rauschmayer](https://twitter.com/rauschma/status/638814175662338048)
+
+
 ## 2015-09-01
 
 It's been a while, eh? brace yourself - today's list will be the longest, thus far.
