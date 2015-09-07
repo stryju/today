@@ -15,6 +15,9 @@ Seems like I am slowly leaning towards "tom's weekly" - hard to find spare time 
 5. [Accessibility - beyond the screen reader](http://www.creativebloq.com/web-design/accessibility-beyond-screen-reader-91516540); via [Heydon Pickering](https://twitter.com/heydonworks/status/638955646688358400)
 6. [Flash-Free Clipboard for the Web](https://hacks.mozilla.org/2015/09/flash-free-clipboard-for-the-web/); via [Alex Rauschmayer](https://twitter.com/rauschma/status/638814175662338048)
 7. [SocketCluster](http://socketcluster.io/) <q>An open source framework to build your own scalable realtime apps and microservices.</q>; via [Randall Koutnik](https://twitter.com/rkoutnik)
+8. [2014 The Year in Interactive Storytelling, Graphics and Multimedia](http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html) by [The New York Times](http://www.nytimes.com/); via [Stefan Judis](https://twitter.com/stefanjudis)
+9. [Standards for Web apps on mobile – August 2015](http://html5apps-project.eu/2015/09/04/latest-edition-standards-for-web-apps-on-mobile-august-2015/); via [Stefan Judis](https://twitter.com/stefanjudis)
+10. [Automating resource selection with Client Hints](https://developers.google.com/web/updates/2015/09/automating-resource-selection-with-client-hints) interesting...; via [Stefan Judis](https://twitter.com/stefanjudis)
 
 
 ## 2015-09-01
