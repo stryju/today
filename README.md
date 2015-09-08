@@ -4,6 +4,11 @@
 tom’s daily digest
 
 ---
+## 2015-09-08
+
+1. [Less CSS mess](http://thomasbyttebier.be/blog/less-css-mess); via [Harry Roberts](https://twitter.com/csswizardry/status/641237385334886400)
+
+
 ## 2015-09-07
 
 Seems like I am slowly leaning towards "tom's weekly" - hard to find spare time to read ATM ;-)
