@@ -7,6 +7,7 @@ tom’s daily digest
 ## 2015-09-08
 
 1. [Less CSS mess](http://thomasbyttebier.be/blog/less-css-mess); via [Harry Roberts](https://twitter.com/csswizardry/status/641237385334886400)
+2. [Never see localhost SSL warnings again](https://certsimple.com/blog/localhost-ssl-fix); via [Mike MacCana](https://twitter.com/mikemaccana/status/641211094246162432)
 
 
 ## 2015-09-07
