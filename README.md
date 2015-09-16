@@ -4,6 +4,22 @@
 tom’s daily digest
 
 ---
+## 2015-09-16
+
+1. [The toxic side of free. Or: how I lost the love for my side project (part 2)](https://remysharp.com/2015/09/15/jsbin-toxic-part-2) by [Remy Sharp](https://twitter.com/rem)
+2. [Polymer Summit 2015 videos](https://www.youtube.com/playlist?list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J) had a pleasure to attend it - worth watching ;)
+3. ["Native apps can’t out-web the web, and web apps should embrace that."](https://daringfireball.net/linked/2015/09/15/ppk-stop-pushing-web-forward); via [Reginald Braithwaite](https://twitter.com/raganwald/status/643959887899328512)
+4. [dom-class](https://github.com/WebReflection/dom-class) <q>A lightweight, cross browser, simplification of WebComponents.</q> by [Andrea Giammarchi](https://twitter.com/WebReflection/status/644121979822452736) interesting concept
+5. [I'm a c++ programmer. Please sell me on javascript.](https://www.reddit.com/r/javascript/comments/3l0pkx/im_a_c_programmer_please_sell_me_on_javascript/); via [Axel Rauschmayer](https://twitter.com/rauschma/status/643721118386384896)
+6. [Demystifying GraphQL](https://medium.com/@devknoll/demystifying-graphql-86fb2febee14) by [Gerald Monaco](https://twitter.com/devknoll/status/643681370632380416)
+7. [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/) React is at it again, eh?
+8. [Slider Design: Rules of Thumb](http://www.nngroup.com/articles/gui-slider-controls/); via [Stephanie Walter](https://twitter.com/WalterStephanie/status/643680693843722240)
+9. [A proof that React is NOT the new jQuery](https://jsbin.com/vajeyelaxo/edit?js,console) ;)
+10. [Modernizr 3: A new release and website](https://modernizr.com/news/modernizr-3-new-release-site)
+11. [Tonic](https://tonicdev.com/) <q> the * repl for node</q>
+12. [proposal to add `document.ready` promise](https://github.com/whatwg/html/issues/127)
+
+
 ## 2015-09-08
 
 1. [Less CSS mess](http://thomasbyttebier.be/blog/less-css-mess); via [Harry Roberts](https://twitter.com/csswizardry/status/641237385334886400)
