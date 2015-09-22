@@ -4,6 +4,18 @@
 tom’s daily digest
 
 ---
+## 2015-09-22
+
+1. [Promi**sees**](https://bevacqua.github.io/promisees) <q>Promise visualization playground for the adventurous</q> a really sweet promise visualization
+2. [re: What's the best, if any, way to detect "conflicts" w/ CSS vars names between components?](https://gist.github.com/notwaldorf/2462b9a8d30740354b0e); answered by [Monica Dinosaurescu](https://twitter.com/notwaldorf) of [polymer](https://www.polymer-project.org) via [me](https://twitter.com/stryju/status/643814375892099072)
+3. [An iOS developer on React Native](https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0); via [Rafał Bromirski](https://twitter.com/paranoida/status/645904321520009216)
+4. [3030 game](https://github.com/szhu/3030) chrome bug turned into a "fun" game; via [Addy Osmani](https://twitter.com/addyosmani/status/645898045549318144)
+5. [so it turns out, you can `npm install linux` now](https://www.npmjs.com/package/linux) (on OSX, but still)
+6. [How To Protect SSH With Two-Factor Authentication](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-two-factor-authentication) not that I would recommend that, but an interesting idea; via [Randall Koutnik](https://twitter.com/rkoutnik/status/645666748612526080)
+7. [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) a quite extensive list by [Paul Irish](https://twitter.com/paul_irish/status/644992394299965440)
+8. [The HTTP/2 implementation (RFC 7240, 7241)](http://hg.nginx.org/nginx/rev/257b51c37c5a) in nginx; via [Ilya Grigorik](https://twitter.com/igrigorik/status/644534053341794304)
+
+
 ## 2015-09-16
 
 1. [The toxic side of free. Or: how I lost the love for my side project (part 2)](https://remysharp.com/2015/09/15/jsbin-toxic-part-2) by [Remy Sharp](https://twitter.com/rem)
